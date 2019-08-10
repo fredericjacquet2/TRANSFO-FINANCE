@@ -1,108 +1,89 @@
-## Digital and Corporate Finance Transformation  
+## Digital et Transformation de la fonction Finance  
 
-#### By
+#### par
 #### Frédéric Jacquet
 
-- If on smartphone or tablet: you are OK
-- If on PC : reduce screen to ~ 50%
-- Move with arrows (bottom righ) or slide through
+- Si vous êtes sur smartphone ou tablette OK
+- Si sur PC, réduire la taille de l’écran à ~ 50%
+- Utiliser les flèches en bas à droite pour naviguer
 
 ---
 
-### Who I am?
+### Qui suis-je ?
 
 > Frédéric Jacquet<br />
-> CFO at Teolia, Creative IT advisory, and Affiliate Professor at EDHEC    
+> CFO de Teolia, société de conseil en innovation technologique, et Professeur Affilié à l’EDHEC    
 
-[My LinkedIn profile](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)    
+[Mon profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)    
 
 [www.teolia.fr](https://www.teolia.fr/)
 
 ---
 
-**This course is open source**
+**Cette présentation est open source, conçue avec [Reveal.js](https://revealjs.com/#/), disponible sur [mpn profil GitHub](https://github.com/fredericjacquet2), imprimable**
+*Cette version : Août 2019*
 
-*written under [Reveal.js](https://revealjs.com/#/), available on [my GitHub profile](https://github.com/fredericjacquet2), printable*
-
-*This release : WIP August, 2019*
-
-**To enjoy a live session of this course:      
-contact me (frederic.jacquet@teolia.fr) or      
-join my training session: [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
+* Pour une version plus détaillée, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/) *
+**Pour une session en présentiel:      
+Me contacter (frederic.jacquet@teolia.fr) ou      
+Participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
 
 ---
 
-## Chapter 1 : Introduction
+## Chapitre 1 : Introduction
 
 ----
 
-In this chapter
+Dans ce chapitre
 
-1. Course presentation (objectives & course plan)
-2. What is Digital ?
-3. What is Corporate finance function ?
-
-----
-
-### 1. Course presentation (objectives, plan and story)
+1. Présentation générale (objectifs et plan)
+2. Le Digital, c’est quoi ?
+3. Rôles de la fonction finance d’entreprise
 
 ----
 
-#### Course objectives  
-
-Provide an overview of a fuzzy subject !   
-
-- Corporate finance digitalisation implementations, means & required skills
-- Understand the changing role of Corporte finance
-
-- The course excludes non-digital Corporate Finance Transfo isues
+### 1. Présentation générale (objectifs et plan)
 
 ----
 
-**What are non-digital Finance Transformation issues (the ones excluded from this course) ?** 
+#### Objectifs et contenu
 
-- Dealing with new regulatory / compliance requirements (GDPR...)
-- Shifting Finance towards a business partner mindset
-- Cash is King / cash improvement initiatives
-- Implementing SSC (Shared Services Centers)    
-
-Well, those are very much related to digital as well !   
+- Digitalisation de la fonction finance : présenter le champ des possibles 
+- Comprendre l’évolution du rôle de la fonction
+- Explorer les pistes de mise en œuvre  
+*Les sujets de Transfo Finance non-digitaux sont exclus*
 
 ----
 
-#### Course plan (if on PC, press ESC)  
-- Chapter 1 = Introduction (course, digital and corporate finance presentation)
-- Chapter 2 = Digitalising the corporate finance processes (both transacitonal and reporting processes)
-- Chapter 3 = Leveraging the "business partner finance" with Big data & Analytics
-- Chapter 4 = Technology & solutions
-- Chapter 5 = Required skills to manage the transformation
-- Chapter 6 = Implementing finance transformation
+**Quels sont les sujets non-digitaux de la Transformation de la fonction Finance (non abordés dans cette présentation) ?** 
+
+- Répondre aux Nouvelles exigences réglementaires / compliance (RGPD, Sapin2 …)
+- Changer de posture et devenir business partner 
+- Cash is King / optimisation de la trésorerie
+- Implémenter des CSP, Centres de Services Partagés     
+Tous ces sujets sont fortement liés au digital !   
 
 ----
 
-You may approach the course from the processes (ch 2 & 3), the solutions (ch 4), the implementation (ch 6).
+#### Plan de la présentation (si sur PC, press ESC)  
+- Chapitre 1 = Introduction (présentation, définition Digital, orga fonction finance)
+- Chapitre 2 = Digitalisation des process de la fonction finance 
+- Chapitre 3 = Leverager le "business partner" avec l’Analytics
+- Chapitre 4 = Technologies & solutions
+- Chapitre 5 = Implémenter la transformation
 
 ----
 
-### 2. What is Digital ?
+### 2. Le Digital, c’est quoi ?
 
-- Loads of definitions !    
-
-- A matter of perception   
-
-- My prefered definition = technologies, business models and usages driven by intersection of SMAC   
-
-Social media, Mobility, Analytics (big data), Cloud    
-= the 4 pilars of Digital
-
-----
-
-Each SMAC component offers specific services to the business  
-- Social media widens the scope of communication and information 
-- Mobile connectivity (smartphones and tablets) enables accessibility (anywhere, anytime)
-- Analytics provides opportunities to analyze Big Data  
-- Cloud removes physinal barriers for storing and accessing information  
-These four independent technologies combine to form a number of solutions changing our daily lives. 
+- Des définitions multiples !    
+- Une affaire de perception   
+- Ma définition préférée = technologies, business models et usages générés par la combinaison des SMAC      
+SMAC, les quatre points d’ancrage technologique du Digital : 
+-	Social (réseaux sociaux, communication - information) 
+-	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
+-	Analytics (opportunités offertes pas l’analyse big data)
+-	Cloud (fluidité du stockage et accès à l’information)  
 
 ----
 
@@ -110,24 +91,13 @@ These four independent technologies combine to form a number of solutions changi
 
 ----
 
-#### Is Digital such a revolution ? 
+### 3. Organisation de la fonction finance d’entreprise 
 
-- Yes it is !  
-- Not the first drastic lifestyle revolution (think of agriculture & industrial revolutions !)  
-- But definitlely the fastest one humanity ever faced   
-- From change to agility    
 
 ----
 
-### 3. What is the Corporate Finance function ?
-
-- How is it usually organised ?
-- Which processes does it manage ?
+<img src="images/ORGAFF.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
-<img src="images/cforga.png" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
-*end of the chapter*
+*fin du chapitre*

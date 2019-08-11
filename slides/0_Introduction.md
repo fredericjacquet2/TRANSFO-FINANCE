@@ -3,30 +3,20 @@
 #### par
 #### Frédéric Jacquet
 
-- Si vous êtes sur smartphone ou tablette OK
-- Si sur PC, réduire la taille de l’écran à ~ 50%
-- Utiliser les flèches en bas à droite pour naviguer
+> Frédéric Jacquet<br /> [profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)   
+> CFO de Teolia, société de conseil en innovation technologique
+> Professeur Affilié à l’EDHEC    
 
 ---
 
-### Qui suis-je ?
+**Cette présentation est open source, conçue avec [Reveal.js](https://revealjs.com/#/), disponible sur [mon profil GitHub](https://github.com/fredericjacquet2), imprimable**     
 
-> Frédéric Jacquet<br />
-> CFO de Teolia, société de conseil en innovation technologique, et Professeur Affilié à l’EDHEC    
-
-[Mon profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)    
-
-[www.teolia.fr](https://www.teolia.fr/)
-
----
-
-**Cette présentation est open source, conçue avec [Reveal.js](https://revealjs.com/#/), disponible sur [mpn profil GitHub](https://github.com/fredericjacquet2), imprimable**
 *Cette version : Août 2019*
 
-* Pour une version plus détaillée, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/) *
+*Pour une version plus détaillée de cette présentation, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/)*   
+
 **Pour une session en présentiel:      
-Me contacter (frederic.jacquet@teolia.fr) ou      
-Participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
+Me contacter (frederic.jacquet@teolia.fr) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
 
 ---
 
@@ -49,24 +39,24 @@ Dans ce chapitre
 #### Objectifs et contenu
 
 - Digitalisation de la fonction finance : présenter le champ des possibles 
-- Comprendre l’évolution du rôle de la fonction
+- Comprendre l’évolution du rôle de la fonction finance
 - Explorer les pistes de mise en œuvre  
-*Les sujets de Transfo Finance non-digitaux sont exclus*
+***Les sujets de Transfo Finance non-digitaux sont exclus***
 
 ----
 
 **Quels sont les sujets non-digitaux de la Transformation de la fonction Finance (non abordés dans cette présentation) ?** 
 
-- Répondre aux Nouvelles exigences réglementaires / compliance (RGPD, Sapin2 …)
-- Changer de posture et devenir business partner 
-- Cash is King / optimisation de la trésorerie
+- Complaince / répondre aux Nouvelles exigences réglementaires (RGPD, Sapin2 …)
+- Changer de posture, devenir business partner 
+- Cash is King / optimiser la trésorerie
 - Implémenter des CSP, Centres de Services Partagés     
-Tous ces sujets sont fortement liés au digital !   
+***Tous ces sujets sont fortement liés au digital !***   
 
 ----
 
 #### Plan de la présentation (si sur PC, press ESC)  
-- Chapitre 1 = Introduction (présentation, définition Digital, orga fonction finance)
+- Chapitre 1 = Introduction (présentation, définition du Digital, organisation fonction finance)
 - Chapitre 2 = Digitalisation des process de la fonction finance 
 - Chapitre 3 = Leverager le "business partner" avec l’Analytics
 - Chapitre 4 = Technologies & solutions
@@ -76,14 +66,12 @@ Tous ces sujets sont fortement liés au digital !
 
 ### 2. Le Digital, c’est quoi ?
 
-- Des définitions multiples !    
-- Une affaire de perception   
-- Ma définition préférée = technologies, business models et usages générés par la combinaison des SMAC      
-SMAC, les quatre points d’ancrage technologique du Digital : 
--	Social (réseaux sociaux, communication - information) 
--	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
--	Analytics (opportunités offertes pas l’analyse big data)
--	Cloud (fluidité du stockage et accès à l’information)  
+- Des définitions multiples / Une affaire de perception   
+- Digital = technologies, business models et usages générés par la combinaison des SMAC, quatre points d’ancrage technologique: 
+  -	Social (réseaux sociaux, communication - information) 
+  -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
+  -	Analytics (opportunités offertes pas l’analyse big data)
+  -	Cloud (fluidité du stockage et accès à l’information)  
 
 ----
 

@@ -1,9 +1,6 @@
 ## Digital et Transformation de la fonction Finance  
 
-#### par
-#### Frédéric Jacquet
-
-> Frédéric Jacquet<br /> [profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/)   
+> par Frédéric Jacquet ([profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/))   
 > CFO de Teolia, société de conseil en innovation technologique
 > Professeur Affilié à l’EDHEC    
 
@@ -13,10 +10,9 @@
 
 *Cette version : Août 2019*
 
-*Pour une version plus détaillée de cette présentation, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/)*   
+*Pour une version plus détaillée, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/)*   
 
-**Pour une session en présentiel:      
-Me contacter (frederic.jacquet@teolia.fr) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
+*Pour une session en présentiel, me contacter (frederic.jacquet@teolia.fr) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
 
 ---
 
@@ -66,7 +62,9 @@ Dans ce chapitre
 
 ### 2. Le Digital, c’est quoi ?
 
-- Des définitions multiples / Une affaire de perception   
+----
+
+- Digital : des définitions multiples / Une affaire de perception   
 - Digital = technologies, business models et usages générés par la combinaison des SMAC, quatre points d’ancrage technologique: 
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)

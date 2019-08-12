@@ -12,7 +12,7 @@
 
 *Pour une version plus détaillée, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/)*   
 
-*Pour une session en présentiel, me contacter (frederic.jacquet@teolia.fr) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)**
+*Pour une session en présentiel, me contacter (frederic.jacquet@teolia.fr) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
 
 ---
 
@@ -41,9 +41,9 @@ Dans ce chapitre
 
 ----
 
-**Quels sont les sujets non-digitaux de la Transformation de la fonction Finance (non abordés dans cette présentation) ?** 
+***Quels sont les sujets non-digitaux de la Transformation de la fonction Finance (non abordés dans cette présentation) ?*** 
 
-- Complaince / répondre aux Nouvelles exigences réglementaires (RGPD, Sapin2 …)
+- Compliance / répondre aux Nouvelles exigences réglementaires (RGPD, Sapin2 …)
 - Changer de posture, devenir business partner 
 - Cash is King / optimiser la trésorerie
 - Implémenter des CSP, Centres de Services Partagés     
@@ -52,7 +52,7 @@ Dans ce chapitre
 ----
 
 #### Plan de la présentation (si sur PC, press ESC)  
-- Chapitre 1 = Introduction (présentation, définition du Digital, organisation fonction finance)
+- Chapitre 1 = Introduction
 - Chapitre 2 = Digitalisation des process de la fonction finance 
 - Chapitre 3 = Leverager le "business partner" avec l’Analytics
 - Chapitre 4 = Technologies & solutions
@@ -65,7 +65,7 @@ Dans ce chapitre
 ----
 
 - Digital : des définitions multiples / Une affaire de perception   
-- Digital = technologies, business models et usages générés par la combinaison des SMAC, quatre points d’ancrage technologique: 
+- Digital = technologies, business models et usages générés par la combinaison des SMAC: 
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
   -	Analytics (opportunités offertes pas l’analyse big data)

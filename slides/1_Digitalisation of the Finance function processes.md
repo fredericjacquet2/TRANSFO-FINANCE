@@ -3,11 +3,11 @@
 ----
 
 Dans ce chapitre
-1.	Digitalisation des process transactionnels (comptabilité / trésorerie)
-- Dématérialisation / automatisation / robotisation des process T&E, S2P, P2P, R2R …
-- Objectifs et problématiques
+2.1.	Digitalisation des process transactionnels (comptabilité / trésorerie)
+  - Dématérialisation / automatisation / robotisation des process T&E, S2P, P2P, R2R …
+  - Objectifs et problématiques
 2. Digitalisation des process de reporting
-- Facilités de calcul (multiplicité indicateurs et analyses temps réel) et Datavisualisation 
+  - Facilités de calcul (multiplicité indicateurs et analyses temps réel) et Datavisualisation 
 3. Conclusion : une finance plus fancy    
 
 ----
@@ -32,21 +32,23 @@ Sur une échelle de 1 (has been) à 4 (futuriste)
 4. Validation automatisée (hors exceptions) : vérif règles, agenda, CRM, T&E ...)
 
 ----
+
 *T&E Softwares e.g. : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)*
 <img src="images/Jenji.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
--	OBJECTIFS : 
-o	Réduction coûts (coût NDF 15€ à 53€)
-o	Amélioration service (managers & collaborateurs : rapide, user-friendly, accessible)
+-	OBJECTIFS :     
+o	Réduction coûts (coût NDF 15€ à 53€)    
+o	Amélioration service (managers & collaborateurs : rapide, user-friendly, accessible)    
 o	Réduction taches routinières (extraction TVA)    
--	COMPLEXITE ?
-o	Produits low-cost « off the shelf »
-o	Simplicité intégration IT / ERP 
-o	Législation aidante 
-o	Utilisateur auto-formés et équipés (mobilité)
-o	Peu de résistance au changement    
+----
+-	COMPLEXITE ?    
+o	Produits low-cost « off the shelf »   
+o	Simplicité intégration IT / ERP    
+o	Législation aidante    
+o	Utilisateur auto-formés et équipés (mobilité)   
+o	Peu de résistance au changement       
 
 ----
 
@@ -59,14 +61,12 @@ o	Peu de résistance au changement
 
 ----
 
-
-----
-
 ##### Comptabilité fournisseurs - S2P Source to Pay / P2P Procure-to-Pay     
 
 <img src="images/p2p1.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----
+
 - Produits incluant dématérialisation / OCR / portail fournisseur
 - Réduction coûts de process / amélioration de la qualité de service (portail fournisseur et indicateurs internes / réduction tâches routinières (TVA, ODM…)    
 - Interface simplifiée ERP / modules compta et paiements
@@ -119,6 +119,7 @@ Objectifs : mieux éclairer les opérationnels avec des analyses plus rapides, p
 - Result : lower solicitation of cost control on support presentations, better appropriation of the financial data by operations.
 
 ----
+
 #### 2.3. Conclusion : une finance plus « fancy »    
 
 **Digitalisation des process de la fonction finance** 

@@ -18,23 +18,19 @@
 
 ## Chapitre 1 : Introduction
 
-----
-
-Dans ce chapitre
-
 1. Présentation générale (objectifs et plan)
 2. Le Digital, c’est quoi ?
 3. Rôles de la fonction finance d’entreprise
 
 ----
 
-### 1. Présentation générale (objectifs et plan)
+### 1.1. Présentation générale (objectifs et plan)
 
 ----
 
 #### Objectifs et contenu
 
-- Digitalisation de la fonction finance : présenter le champ des possibles 
+- Présenter le champ des possibles 
 - Comprendre l’évolution du rôle de la fonction finance
 - Explorer les pistes de mise en œuvre  
 ***Les sujets de Transfo Finance non-digitaux sont exclus***
@@ -47,6 +43,7 @@ Dans ce chapitre
 - Changer de posture, devenir business partner 
 - Cash is King / optimiser la trésorerie
 - Implémenter des CSP, Centres de Services Partagés     
+-   
 ***Tous ces sujets sont fortement liés au digital !***   
 
 ----

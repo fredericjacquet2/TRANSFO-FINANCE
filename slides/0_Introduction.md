@@ -32,7 +32,8 @@
 
 - Présenter le champ des possibles 
 - Comprendre l’évolution du rôle de la fonction finance
-- Explorer les pistes de mise en œuvre  
+- Explorer les pistes de mise en œuvre      
+----
 ***Les sujets Transfo Finance non-digitaux sont exclus***
 
 ----

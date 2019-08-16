@@ -6,7 +6,7 @@
 
 ---
 
-**Cette présentation est open source, conçue avec [Reveal.js](https://revealjs.com/#/), disponible sur [mon profil GitHub](https://github.com/fredericjacquet2), imprimable**     
+**Présentation open source, conçue avec [Reveal.js](https://revealjs.com/#/), disponible sur [mon profil GitHub](https://github.com/fredericjacquet2), imprimable**     
 
 *Cette version : Août 2019*
 
@@ -33,17 +33,16 @@
 - Présenter le champ des possibles 
 - Comprendre l’évolution du rôle de la fonction finance
 - Explorer les pistes de mise en œuvre  
-***Les sujets de Transfo Finance non-digitaux sont exclus***
+***Les sujets Transfo Finance non-digitaux sont exclus***
 
 ----
 
-***Quels sont les sujets non-digitaux de la Transformation de la fonction Finance (non abordés dans cette présentation) ?*** 
+***Quels sont les sujets Transfo Finance non-digitaux (non abordés dans cette présentation) ?*** 
 
-- Compliance / répondre aux Nouvelles exigences réglementaires (RGPD, Sapin2 …)
+- Compliance / répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)
 - Changer de posture, devenir business partner 
 - Cash is King / optimiser la trésorerie
 - Implémenter des CSP, Centres de Services Partagés     
--   
 ***Tous ces sujets sont fortement liés au digital !***   
 
 ----
@@ -57,11 +56,11 @@
 
 ----
 
-### 2. Le Digital, c’est quoi ?
+### 1.2. Le Digital, c’est quoi ?
 
 ----
 
-- Digital : des définitions multiples / Une affaire de perception   
+- Des définitions multiples, une affaire de perception   
 - Digital = technologies, business models et usages générés par la combinaison des SMAC: 
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
@@ -74,7 +73,7 @@
 
 ----
 
-### 3. Organisation de la fonction finance d’entreprise 
+### 1.3. Organisation de la fonction finance d’entreprise 
 
 
 ----

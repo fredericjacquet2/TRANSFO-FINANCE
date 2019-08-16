@@ -1,13 +1,7 @@
-## Chapitre 2 - Digitalisation des process de la fonction Finance
+## Chapitre 2 - Digitalisation des process de la fonction Finance         
 
-----
-
-Dans ce chapitre
-2.1.	Digitalisation des process transactionnels (comptabilité / trésorerie)
-  - Dématérialisation / automatisation / robotisation des process T&E, S2P, P2P, R2R …
-  - Objectifs et problématiques
-2. Digitalisation des process de reporting
-  - Facilités de calcul (multiplicité indicateurs et analyses temps réel) et Datavisualisation 
+1. Digitalisation des process transactionnels (comptabilité / trésorerie)    
+2. Digitalisation des process de reporting    
 3. Conclusion : une finance plus fancy    
 
 ----
@@ -16,10 +10,10 @@ Dans ce chapitre
 
 ----
 
-#### Dématérialisation / automatisation / robotisation 
+#### Dématérialisation / automatisation / robotisation : pourquoi faire?  
 -	Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
 -	Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistances      
--	Mais un impact « business » limité… pas d’effet Waouh !
+-	Impact « business » limité… pas d’effet Waouh !
 
 ----
 
@@ -52,6 +46,20 @@ o	Peu de résistance au changement
 
 ----
 
+-	OBJECTIFS :     
+o	Réduction coûts (coût NDF 15€ à 53€)    
+o	Amélioration service (managers & collaborateurs : rapide, user-friendly, accessible)    
+o	Réduction taches routinières (extraction TVA)    
+
+-	COMPLEXITE ?    
+o	Produits low-cost « off the shelf »   
+o	Simplicité intégration IT / ERP    
+o	Législation aidante    
+o	Utilisateur auto-formés et équipés (mobilité)   
+o	Peu de résistance au changement       
+
+----
+
 > **Case example SANOFI (source Digital Finance Awards 2019)**   
 
 - T&E product deployment
@@ -68,9 +76,11 @@ o	Peu de résistance au changement
 ----
 
 - Produits incluant dématérialisation / OCR / portail fournisseur
-- Réduction coûts de process / amélioration de la qualité de service (portail fournisseur et indicateurs internes / réduction tâches routinières (TVA, ODM…)    
-- Interface simplifiée ERP / modules compta et paiements
-*Produits : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)    
+- Réduction coûts de process / amélioration de la qualité de service (portail fournisseur et indicateurs internes) / réduction tâches routinières (TVA, ODM…)    
+- Interface simplifiée ERP / modules compta et paiements    
+
+*Produits : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)     
+
 *Fonctionalités spécifiques possibles (RPA...)*
 
 ----
@@ -85,8 +95,9 @@ o	Peu de résistance au changement
 
 ##### Clôture comptable – R2R Record to Report    
 
-- Amélioration rapprochement bancaire et écritures comptables
-- Besoin de process clairs / coordonnés = impacts organisationnels
+- Amélioration process clôture (rapprochement bancaire et écritures comptables)
+- Besoin de process clairs / coordonnés = impacts organisationnels     
+
 *Produits : [Blackline](https://www.blackline.com/)*
 
 ----
@@ -98,11 +109,12 @@ o	Peu de résistance au changement
 - Result : harmonisation of closing process over the group
 
 ----
+
 #### 2.2. Digitalisation process reporting et pilotage performance
 
 Objectifs : mieux éclairer les opérationnels avec des analyses plus rapides, plus poussées, mieux présentées
--	Amélioration des process : calculs temps réel / multiplicité kpi et analyses
--	Amélioration de la communication utilisateurs : présentations ciblées / mise en forme
+-	Amélioration des process : calculs temps réel / multiplicité KPI et analyses
+-	Amélioration de la communication utilisateurs : présentations ciblées / mise en forme    
 
 *Solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)* 
 
@@ -123,6 +135,11 @@ Objectifs : mieux éclairer les opérationnels avec des analyses plus rapides, p
 #### 2.3. Conclusion : une finance plus « fancy »    
 
 **Digitalisation des process de la fonction finance** 
-- Process compta / tréso : dématérialisation (incluant OCR) / automatisation / robotisation
-- Process reporting / performance : analyse temps réel / data visualisation
-Une opportunité unique de réinventer la fonction finance : plus efficiente, plus réactive (temps réel), plus disponible (anytime anywhere - mobilité), plus user-friendly (portails et infos, présentations taylor-made).
+- Process compta / tréso : dématérialisation (incluant OCR) / automatisation / robotisation    
+- Process reporting / performance : analyse temps réel / data visualisation    
+
+Une opportunité unique de réinventer la fonction finance : plus efficiente, plus réactive (temps réel), plus disponible (anytime anywhere / mobilité), plus user-friendly (portails et infos, présentations taylor-made).
+
+----
+
+*fin du chapitre 2*

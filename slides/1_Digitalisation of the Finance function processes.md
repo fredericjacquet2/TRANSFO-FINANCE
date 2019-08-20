@@ -106,7 +106,7 @@ o	Peu de résistance au changement
 
 #### POURQUOI = mieux éclairer les opérationnels
 -	Amélioration des process de reporting: calculs temps réel, multiplicité des KPI et analyses
--	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique    
+-	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)    
 
 #### COMMENT = solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)
 

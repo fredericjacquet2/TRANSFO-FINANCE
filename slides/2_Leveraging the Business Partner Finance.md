@@ -12,35 +12,40 @@ Du contrôle de gestion vers le management de la performance en mode prédictif,
 
 ----
 
-> Verbatim Accenture (" Finance 2020 ")  
-“La digitalisation et l’automatisation vont se poursuivre. Toutes les tâches transactionnelles seront à terme robotisées avec de vraies économies et gains de productivité à la clé. 
+> Verbatim Accenture (" Finance 2020 ")    
+
+"La digitalisation et l’automatisation vont se poursuivre. Toutes les tâches transactionnelles seront à terme robotisées avec de vraies économies et gains de productivité à la clé. 
 
 La direction financière ne doit pas seulement s’adapter aux nouvelles technologies, mais changer de modèle. Il ne s’agit plus de contrôler ce qui s’est passé, mais d’anticiper ce qui va se passer : la finance doit devenir prédictive. » 
 
 ----
 
-> Verbatim Accenture (" Finance 2020 ")  
- « À quoi ressemblera la direction financière de demain ?
+> Verbatim Accenture (" Finance 2020 ")    
+
+« À quoi ressemblera la direction financière de demain ?
 Le modèle actuel basé sur la comptabilité et le reporting est condamné. La direction financière sera reconfigurée autour de trois composants : des équipes transversales qui assureront les missions traditionnelles, largement automatisées ; une instance de contrôle et de communication ; et un centre d’analyse des données et de prospective, qui analysera en temps réel l’impact financier des décisions et des événements. »
 
 ----
 
-> Clara Silvestri, CFO de Microsoft France
-« L’enjeu est la reprise par le CFO de la stratégie data de l’entreprise. Il est légitime car ses équipes ont une expérience approfondie de la validité de la donnée et savent générer de ’information objective et fiable. Elles ont une aptitude toute naturelle à en donner un sens opérationnel pour améliorer la prise de décision en interne ».     
+> Clara Silvestri, CFO de Microsoft France    
+
+« L’enjeu est la reprise par le CFO de la stratégie data de l’entreprise. Il est légitime car ses équipes ont une expérience approfondie de la validité de la donnée et savent générer de ’information objective et fiable. Elles ont une aptitude toute naturelle à en donner un sens opérationnel pour améliorer la prise de décision en interne. »     
 
 ----
 
-> Deloitte, “Forecasting in a digital world", How the workplace changes 
-Forecasting isn’t limited to Finance. Functions from marketing to supply chain to human resources all have needs for predicting the future to drive important decisions. While CFOs may not lead function-specific forecasting, they should help shape these forecasting initiatives since Finance will inevitably use the outputs they generate. 
+> Deloitte, “Forecasting in a digital world", How the workplace changes    
+
+"Forecasting isn’t limited to Finance. Functions from marketing to supply chain to human resources all have needs for predicting the future to drive important decisions. While CFOs may not lead function-specific forecasting, they should help shape these forecasting initiatives since Finance will inevitably use the outputs they generate." 
 
 ----
 
-> Bearing Point, CFO 4.0. La reporting factory est morte, bienvenue à la data factory !
-La reporting factory sera désormais recentrée sur le sourcing, le contrôle et la garantie de la fiabilité des données. Elle opérera comme un hub qui permettra de partager et exploiter les connaissances et les analyses entre les systèmes. La valeur ajoutée de tels systèmes résidera dans leur capacité à développer un data operating model pour qu’un maximum de données de l’entreprise soient utilisées par les métiers lors des prises de décisions. Les équipes du CFO seront en support pour évaluer les sources et fiabiliser la fabrication des KPI. On parlera alors de data factory !
+> Bearing Point, CFO 4.0. La reporting factory est morte, bienvenue à la data factory !    
+
+"La reporting factory sera désormais recentrée sur le sourcing, le contrôle et la garantie de la fiabilité des données. Elle opérera comme un hub qui permettra de partager et exploiter les connaissances et les analyses entre les systèmes. La valeur ajoutée de tels systèmes résidera dans leur capacité à développer un data operating model pour qu’un maximum de données de l’entreprise soient utilisées par les métiers lors des prises de décisions. Les équipes du CFO seront en support pour évaluer les sources et fiabiliser la fabrication des KPI. On parlera alors de data factory !"
 
 ----
 
-<img src="images/dassault.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/DF_DS.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 
@@ -60,8 +65,12 @@ Marché en forte croissance, très compétitif.
 Objectifs = augmentation part de marché et amélioration de la rentabilité de l’activité paris sportifs
 
 ----
+
 Un des chantiers : le coût d’acquisition clients
 <img src="images/FDJ2.png" style="background:none; border:none; box-shadow:none;"/>
+
+---- 
+
 Constat de départ : 
 On connait le coût net des offres promotionnelles + l’évolution part de marché et rentabilité de l’activité
 Questions clé : 

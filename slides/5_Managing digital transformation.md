@@ -1,13 +1,11 @@
-## Chapter 6 - Implementing digital transformation
+## Chapitre 6 - Implemémenter la transformation
 
-----
-
-In this chapter:
-1. Statistics: where do we stand today? 
-2. Key success factors : people, processes, tools
-3. Global or local?
-4. Changes in the finance function
-5. WIIFM?
+1. Stats: où en sont les entreprises ? 
+2. Facteurs de succès : people, processes, tools
+3. Compétences (project management / change / techno) 
+4. Global ou local ?
+5. Nouvelle posture de la fonciton finance
+6. WIIFM?
 
 ----
 

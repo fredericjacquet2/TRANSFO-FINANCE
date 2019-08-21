@@ -1,15 +1,12 @@
-## Chapter 4 - Technology & solutions
+## Chapitre 4 - Technologies & solutions
 
-----
-
-In this chapter
-1. Clear on Saas and the like?
-2. Clear on what's an ERP ?
-3. Off-the-shelf products, a broadly used technology
+1. Saas / Cloud
+2. ERP
+3. Produits spécifiques aux process
 4. RPA Robotic Process Automation 
-5. Chatbots
-6. BI softwares
-7. Big Data & analytics / IA / Blockchain
+5. BI softwares (OLAP / EPM)
+7. Big Data & analytics / IA 
+8. [ Blockchain ]
 
 ----
 

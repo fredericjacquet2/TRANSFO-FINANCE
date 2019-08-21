@@ -1,12 +1,12 @@
 ## Digital et Transformation de la fonction Finance  
 
 > par Frédéric Jacquet ([profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/))   
-> CFO de Teolia, société de conseil en innovation technologique
+> CFO de Teolia, société de conseil en innovation technologique     
 > Professeur Affilié à l’EDHEC    
 
 ---
 
-**Présentation open source, conçue avec [Reveal.js](https://revealjs.com/#/), disponible sur [mon profil GitHub](https://github.com/fredericjacquet2), imprimable**     
+**Présentation open source / conçue avec [Reveal.js](https://revealjs.com/#/) / disponible sur [mon profil GitHub](https://github.com/fredericjacquet2)/ imprimable**     
 
 *Cette version : Août 2019*
 

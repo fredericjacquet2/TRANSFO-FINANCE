@@ -1,11 +1,10 @@
 ## Chapitre 6 - Implemémenter la transformation
 
-1. Stats: où en sont les entreprises ? 
+1. Statistiques: où en sont les entreprises ? 
 2. Facteurs de succès : people, processes, tools
-3. Compétences (project management / change / techno) 
+3. Compétences : soft skills, Project management, Change, Techno 
 4. Global ou local ?
-5. Nouvelle posture de la fonciton finance
-6. WIIFM?
+5. Nouvelle posture de la fonction finance   
 
 ----
 

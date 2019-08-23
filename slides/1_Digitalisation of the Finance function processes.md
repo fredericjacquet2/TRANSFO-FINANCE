@@ -11,10 +11,13 @@
 
 ----
 
-#### QUOI = Dématérialisation / automatisation / robotisation
-#### POURQUOI =  
+#### QUOI    
+- Dématérialisation / automatisation / robotisation    
+
+#### POURQUOI    
 -	Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
-#### COMMENT =
+
+#### COMMENT    
 -	Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistances
 
 ----
@@ -102,13 +105,15 @@ o	Peu de résistance au changement
 
 ----
 
-#### QUOI = reporting customisé et temps réel
+#### QUOI
+- Reporting customisé et temps réel     
 
-#### POURQUOI = mieux éclairer les opérationnels
--	Amélioration des process de reporting: calculs temps réel, multiplicité des KPI et analyses
--	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)    
+#### POURQUOI : mieux éclairer les opérationnels    
+-	Amélioration des process de reporting: calculs temps réel, multiplicité des KPI et analyses     
+-	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)        
 
-#### COMMENT = solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)
+#### COMMENT    
+- Solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)    
 
 ----
 
@@ -127,7 +132,7 @@ o	Peu de résistance au changement
 
 **Digitalisation des process de la fonction finance** 
 - Process compta / tréso = dématérialisation (incluant OCR) + automatisation + robotisation    
-- Process reporting / performance = analyse temps réel + data visualisation    
+- Process reporting / performance = analyses multiples et temps réel + data visualisation    
 
 Une opportunité unique de réinventer la fonction finance : plus efficiente, plus réactive (temps réel), plus disponible (anytime anywhere / mobilité), plus user-friendly (portails et infos, présentations taylor-made).
 

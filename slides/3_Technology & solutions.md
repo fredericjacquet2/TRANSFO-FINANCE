@@ -16,8 +16,6 @@ Usual apps run more & more in Saas mode (Software as a service or Cloud app serv
 "Partial" cloudisaiton can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
 See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
 
-*From an accounting perspective, Saas has implications as it shifts CAPEX towards OPEX*
-
 ----
 
 ### 2. Clear on what's an ERP ?
@@ -25,7 +23,7 @@ ERP (Enterprise Resource Planning) = a group of interconnected modules + a datab
 
 [see here for ERP fundamentals](https://www.oracle.com/applications/erp/what-is-erp.html)
 
-[and here for a neat video to summarize the transversal role of an ERP] (https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
+[and here for a neat video to summarize the transversal role of an ERP](https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
 
 ----
 
@@ -34,7 +32,7 @@ ERP (Enterprise Resource Planning) = a group of interconnected modules + a datab
 ----
 
 ### 3. Off-the-shelf products 
-A number of "products" handle automatisaiotn of trasnacitonal processes:
+A number of "products" handle automatisation of trasnacitonal processes:
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
 - Market-leading specific business applications, taylored to a specific process (e.g. Blackline for accounting)    
 
@@ -48,7 +46,8 @@ A robot automates human tasks, it works ideally if :
 - very repetitive tasks
 - no intelligence
 
-Number of available softwares availlable to do so, relative ease of configuration. ROI very dependent of repetitivity.
+Number of available softwares availlable to do so, relative ease of configuration.     
+ROI very dependent of repetitivity.
 
 ----
 
@@ -68,21 +67,6 @@ Number of available softwares availlable to do so, relative ease of configuratio
 
 ----
 
-### 5. Chatbots (WIP)
-
-- Chatbot = a talking robot (imitates human conversations through voice and/or text chats).    
-- Chatbot minimizes response time & improves customer experience.    
-
-*History of chatbots dates back to 1966 whit a psychotherapist called ELIZA. You can still converse with it here: [Eliza](http://psych.fullerton.edu/mbirnbaum/psych101/Eliza.htm?utm_source=ubisend.com&utm_medium=blog-link&utm_campaign=ubisend).*   
-
-----
-
-Very broad complexity of chatbots, two variants
-- Rule-Based : bot answers questions based on defined and set rules (rules can be simple to complex!)
-- Self learning: bot uses Machine Learning-based approaches. More efficient than rule-based bots.    
-Video : [Chatbot in 3 min](https://www.youtube.com/watch?v=38sL6pADCog) and video : [Chatbot in 2 min](https://www.youtube.com/watch?v=pX6zqaEHAdw) 
-
-----
 
 ### 6. BI softwares (WIP)
 
@@ -90,7 +74,7 @@ https://www.archerpoint.com/business-intelligence-bi-software
 
 ----
 
-### 7. Big Data & analytics / IA/ Blockchain 
+### 7. Big Data & analytics / IA 
 
 WIP Work In Progress 
 

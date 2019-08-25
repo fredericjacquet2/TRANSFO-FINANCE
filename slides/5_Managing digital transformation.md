@@ -1,14 +1,14 @@
-## Chapitre 6 - Implemémenter la transformation
+## Chapitre 5 - Implémenter la transformation
 
-1. Statistiques: où en sont les entreprises ? 
-2. Facteurs de succès : people, processes, tools
+1. Statistiques : où en sont les entreprises ? 
+2. Facteurs de succès : people, process, outils
 3. Compétences : soft skills, Project management, Change, Techno 
 4. Global ou local ?
-5. Nouvelle posture de la fonction finance   
+5. Nouveaux rôles, nouvelle posture de la fonction finance   
 
 ----
 
-### 1. A few stats on where we are on finance transformation
+### 5.1. Statistiques : où en sont les entreprises ? 
 
 ----
 
@@ -29,49 +29,46 @@
 
 ----
 
-### 2. Key success factors for any digitalisation project
-
-It holds in 3 words: people, processes, tools   
-
-yep, its vast!
-
-----
+### 5.2. Facteurs de succès : people, process, outils
 
 - **PEOPLE**      
- - Execution team : clear governance (roles, responsibilites, delegation), time allocation, skills, mindset
- - Users / stakeholders : **SEEK ADOPTION** change management / communication / training
- - Stakeholders management : align interests at all levels / deal with politics (internal conflicts)
- - Forecast general resistance to change (indivudual and organisational) and identify organisational & social issue
+ - Equipe d’exécution : organisation et gouvernance, allocation temps, compétences, mindset
+ - Utilisateurs / stakeholders : **RECHERCHER L’ADHESION** / change management / communication / formation
+ - Stakeholders management : aligner intérêts / politique interne
+ - Prévoir la résistance au changement (individuel et organisationnel) et identifier les enjeux organisationnels et/ou sociaux
 
 ----
 
-- **PROCESSES** 
-  - Are they clear over the whole process (different countries, BUs, teams) ?
-  - Are they precise enough (avoid regular human intervention to clarifiy process) ? 
-  - A good opportunity to clarify !    
+- **PROCESS** 
+  - Process définis et formalisés (sur l’ensemble du périmètre), complets et précis (pas d’intervention humaine pour clarifier le process), yc exceptions      
+  - Une excellente opportunité de clarifier !    
+
+- **OUTILS**
+  - Eviter l’approche "outil d’abord” : solution adaptée au besoin (specs & sélection)    
+- La difficile gestion de l’existant
+
+----
+### 5.3. Compétences 
+- Soft skills    
+- Project management     
+- Change       
+- Techno      
+
+> Key slills, by M. Page (CFO baromter)      
+- *learning new methods and technologies such as data analytics, and improving their social, communication and change management competences.*
+
 
 ----
 
-- **TOOLS**
-  - Avoid "tool first" approach
-  - Right tool for the right need : specs, thorough thinking and choice
-  - Adapt choice complexity to stake at hand     
-  - Market-leading software applications, designed for specific processes and/or broad software products requiring (robots, chabots, data analysis, datavisualisation). All requiring simplified integration (opened, « IT backbone » ERP)
+### 5.4. Global ou local?
+
+- Stratégie digitale globale, ou politique des petits pas ?    
+- Top down ou bottom up ?   
+- Management proactif ou résistant ?
 
 ----
 
-### 3. Global or local ?  
-
-- Global digital strategy (look at Michelin) 
-- or Short steps / local initiatives / quickwinns 
-- Top down or bottom up methodology ?
-- Proactive or resisting management ?
-
-Well it all works. But not with the same paste / scale / pleasure !
-
-----
-
-#### Global : a clear vision & plan      
+#### Stratégie globale : vision et mise en œuvre      
 
 ***1. Define the strategic vision (where we want to go)***       
 - Build a vision of a target state (objectives and impact)
@@ -102,7 +99,7 @@ Well it all works. But not with the same paste / scale / pleasure !
 
 ----
 
-#### Local initiatives
+#### Approche locale : la politique des petits pas
 
 A large source of Digital inspiration !
 
@@ -122,50 +119,27 @@ Local initiatives are everywhere (with or without a Global strategy)
 
 ----
 
-### 4. Digital transformation : changes in the finance function   
+### 5.5. Nouveaux rôles, nouvelle posture de la fonction finance   
 
 ----
 
-#### Digtial changes role & organisation of Corporate finance
 
-- Organisation progressivelly adds Data management capacities 
-- Role shifts towards : the business, Data amanagement (data analysts, data scientists), IT management
-- More high-added value tasks (analysis, human interactions) and less low-added value tasks : a social issue ?
+- Une organisation qui consolide ses capacités en Data management (data scientistes…)
+- Un rôle qui évolue vers : le business (analyses et « Conseil » aux opérationnels) et la techno (data management, gestion de projets, interface DSI)
+- Réduction des tâches à faible valeur ajoutée : opportunité ou enjeu social ?  
 
-----
-
-#### Changing roles & new positions in corporate finance     
-
-**New C-suite roles for Finance transformation** : CFTO Chief Financial Technology Officer or Chief Financial Transformation Officer / CFIO Chief Financial Information Officer    
-[The Rise of the Chief Financial Technology Officer (CFTO) ](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
-What's a CFTO ? [Who Is the Chief Finance Transformation Officer?](https://www.americanexpress.com/en-au/business/trends-and-insights/articles/who-is-the-chief-finance-transformation-officer/)
-
-Karine Sirmain nominated as ENGIE CFTO (Chief Finance Transformation Officer) end 2017
+#### Un nouveau poste: le CFTO / Chief Financial Technology Officer / Chief Financial Transformation Officer / CFIO / Chief Financial Information Officer / CFTO / Chief Financial Technology Officer. [The Rise of the CFTO](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
 
 ----
 
-> Key slills, by M. Page (CFO baromter)      
-- *"Financial must be committed to extending their formal qualifications in the core areas of their work,* 
-- *learning new methods and technologies such as data analytics, and* 
-- *improving their social, communication and change management competences."*
+#### La place de la fonction finance dans l’entreprise 
 
-----
+Le Digital supprime les silos entre fonctions. Alors, concurrence pour le management de la data ? Fonction finance, garant du chiffre / marketing ou RH, utilisateurs massifs et « historiques » / DSI, maître d’œuvre technique     
 
-#### What is at stake for the finance funciton ? 
+[Vidéo : vision de 2 scénarios prédictifs](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
 
-- Having Finance to become the digital leader or to loose its central role on numbers ? 
+##### La fonction Finance : « business partner » or Expert ? Un enjeu existentiel ?
+- Un expert des affaires financières (IFRS, tax, compliance, communication financière, M&A…)      
+- Le maître incontesté des chiffres et des données, leader de la transformation digitale.  
 
-As digital remove silos, could there be a competition between Finance, IT and Marketing to become the leading funciton of the company?     
-[see video : vision of 2 predicitve scenarios by Deloitte](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
 
-##### Finance evolution = « business partner » or Expert ? An existential challenge ?  
-
-----
-
-### 5. WIIFM (What's in it for me) ? 
-
-- Is my present job/role impacted by those initiatves, good or bad news ?
-- How is digital considered within the organisation, does/could it create value to the Finance team ?
-- Does/could it create value to my personal profile ?    
-
-#### An annoyance or a hobby, a side-duty or a full time job ?

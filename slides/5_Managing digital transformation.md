@@ -31,23 +31,24 @@
 
 ### 5.2. Facteurs de succès : people, process, outils
 
-- **PEOPLE**      
- - Equipe d’exécution : organisation et gouvernance, allocation temps, compétences, mindset
- - Utilisateurs / stakeholders : **RECHERCHER L’ADHESION** / change management / communication / formation
- - Stakeholders management : aligner intérêts / politique interne
- - Prévoir la résistance au changement (individuel et organisationnel) et identifier les enjeux organisationnels et/ou sociaux
+**PEOPLE**      
+- Equipe d’exécution : organisation et gouvernance, allocation temps, compétences, mindset
+- Utilisateurs / stakeholders : RECHERCHER L’ADHESION / change management / communication / formation
+- Stakeholders management : aligner intérêts / politique interne
+- Prévoir la résistance au changement (individuel et organisationnel) et identifier les enjeux organisationnels et/ou sociaux
 
 ----
 
-- **PROCESS** 
-  - Process définis et formalisés (sur l’ensemble du périmètre), complets et précis (pas d’intervention humaine pour clarifier le process), yc exceptions      
-  - Une excellente opportunité de clarifier !    
+**PROCESS** 
+- Process définis et formalisés (sur l’ensemble du périmètre), complets et précis (pas d’intervention humaine pour clarifier le process), yc exceptions      
+- Une excellente opportunité de clarifier !    
 
-- **OUTILS**
-  - Eviter l’approche "outil d’abord” : solution adaptée au besoin (specs & sélection)    
+**OUTILS**
+- Eviter l’approche "outil d’abord” : solution adaptée au besoin (specs & sélection)    
 - La difficile gestion de l’existant
 
 ----
+
 ### 5.3. Compétences 
 - Soft skills    
 - Project management     
@@ -62,9 +63,9 @@
 
 ### 5.4. Global ou local?
 
-- Stratégie digitale globale, ou politique des petits pas ?    
-- Top down ou bottom up ?   
-- Management proactif ou résistant ?
+- Stratégie digitale globale, ou politique des petits pas?    
+- Top down ou bottom up?   
+- Management proactif ou résistant?
 
 ----
 
@@ -128,7 +129,7 @@ Local initiatives are everywhere (with or without a Global strategy)
 - Un rôle qui évolue vers : le business (analyses et « Conseil » aux opérationnels) et la techno (data management, gestion de projets, interface DSI)
 - Réduction des tâches à faible valeur ajoutée : opportunité ou enjeu social ?  
 
-#### Un nouveau poste: le CFTO / Chief Financial Technology Officer / Chief Financial Transformation Officer / CFIO / Chief Financial Information Officer / CFTO / Chief Financial Technology Officer. [The Rise of the CFTO](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)    
+*Un nouveau poste: le CFTO / Chief Financial Technology Officer / Chief Financial Transformation Officer / CFIO / Chief Financial Information Officer / CFTO / Chief Financial Technology Officer. [The Rise of the CFTO](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)*    
 
 ----
 
@@ -137,6 +138,8 @@ Local initiatives are everywhere (with or without a Global strategy)
 Le Digital supprime les silos entre fonctions. Alors, concurrence pour le management de la data ? Fonction finance, garant du chiffre / marketing ou RH, utilisateurs massifs et « historiques » / DSI, maître d’œuvre technique     
 
 [Vidéo : vision de 2 scénarios prédictifs](https://www.youtube.com/watch?v=hU2zyRKKZ5g)
+
+----
 
 ##### La fonction Finance : « business partner » or Expert ? Un enjeu existentiel ?
 - Un expert des affaires financières (IFRS, tax, compliance, communication financière, M&A…)      

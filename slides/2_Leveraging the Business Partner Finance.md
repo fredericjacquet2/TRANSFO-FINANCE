@@ -49,13 +49,12 @@ Le modèle actuel basé sur la comptabilité et le reporting est condamné. La d
 
 ----
 
-> **Case example BARILLA (source Digital Finance Awards 2019 & other sources)**     
+> **Exemple BARILLA (source Digital Finance Awards 2019 & autres)**     
 
-- Promotional offers optimization : solution called TPO (Trade Promotion Optimization)
-- TPO is dedicated to sales & forecasters teams, with responsibility assigned to Finance
-- allowed to consolidate Business Partnering
-- Development of IA Machine learning models, Big Data & Data analytics
-- Result : forecast promotion ROI on innumerous variables (multiple products, dozens of segments, specific stores, time of year).
+- Projet "TPO" ((Trade Promotion Optimization)), solution d’optimisation des offres promotionnelles, destinée aux équipes commerciales
+- Responsabilité du projet attribuée à la Finance (renforcement Business Partnering)
+- Développements machine learning sur bases big data
+- Résultat : calcul ROI prévisionnel, fonction de variables multiples (typologie produits, magasins, périodes de l’année…)
 
 ----
 

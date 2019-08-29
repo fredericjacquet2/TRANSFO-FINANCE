@@ -1,8 +1,8 @@
 ## Digital et Transformation de la fonction Finance  
 
-> par Frédéric Jacquet ([profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/))   
-> CFO de Teolia, société de conseil en innovation technologique     
-> Professeur Affilié à l’EDHEC    
+> Frédéric Jacquet ([profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/))   
+> - CFO de Teolia, société de conseil en innovation technologique     
+> - Professeur Affilié à l’EDHEC    
 
 ---
 
@@ -43,7 +43,8 @@
 - Compliance / répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)
 - Changer de posture, devenir business partner 
 - Cash is King / optimiser la trésorerie
-- Implémenter des CSP, Centres de Services Partagés     
+- Implémenter des CSP, Centres de Services Partagés    
+----
 ***Tous ces sujets sont fortement liés au digital !***   
 
 ----
@@ -61,8 +62,10 @@
 
 ----
 
-- Des définitions multiples, une affaire de perception   
-- Digital = technologies, business models et usages générés par la combinaison des SMAC: 
+Des définitions multiples, une affaire de perception   
+
+Digital = technologies, business models et usages générés par la combinaison des SMAC:   
+
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
   -	Analytics (opportunités offertes pas l’analyse big data)
@@ -79,7 +82,11 @@
 
 ----
 
-<img src="images/ORGAFF.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/DF1.png" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
+<img src="images/DF2.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

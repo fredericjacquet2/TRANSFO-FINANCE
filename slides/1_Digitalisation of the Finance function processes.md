@@ -12,12 +12,15 @@
 ----
 
 #### QUOI    
+
 - Dématérialisation / automatisation / robotisation    
 
 #### POURQUOI    
+
 -	Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
 
 #### COMMENT    
+
 -	Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistances
 
 ----
@@ -51,12 +54,12 @@ o	Peu de résistance au changement
 
 ----
 
-> **Case example SANOFI (source Digital Finance Awards 2019)**   
+> **Exemple SANOFI (source Digital Finance Awards 2019)**   
 
-- T&E product deployment
-- End-to-end approach inclusing Self Booking Tool, complete expense dematerialisaiton, fraud detection, OCR & machine learning, chatbot 
-- Integration with HR & finance systems  
-- Result : 100 countries, 100 000 users, 1 million expenses/year, an apps elected 2nd prefered apps by employees on our intranet portal.
+-	Déploiement outil T&E
+-	Approche intégrant le Self Booking Tool, la dématérialisation notes de frais, détection des fraudes, technologie OCR, chatbot. 
+-	Intégration vers systèmes RH et financier
+-	Résultats : 100 pays, 100 000 utilisateurs, 1 million ndf/an, une application élue 2ème préférée des collaborateurs après le portail Intranet
 
 ----
 
@@ -76,11 +79,11 @@ o	Peu de résistance au changement
 
 ----
 
-> **Case example EIFFAGE “OPERIS” (source Digital Finance Awards 2019)**   
+> **Exemple EIFFAGE “OPERIS” (source Digital Finance Awards 2019)**   
 
-- Digitalisation of finance function + SSC in France. 
-- Innnovative technologies (Tradeshift, Ivalua, Traveldoo), process harmonisation, RPA to increase productivity. 
-- Result : demat 2.4 millions of invoices, excellent adoption by operations, productivity +60%.
+-	Digitalisation de la fonction finance couplée à la mise en place d'un CSP en France
+-	Choix de technologies innovantes (Tradeshift, Ivalua, Traveldoo), harmonisation des processus, RPA pour augmenter la productivité
+-	Résultats : 2.4 millions de factures fournisseurs dématérialisées, très bonne adoption par les opérationnels, productivité +60%.
 
 ----
 
@@ -93,11 +96,11 @@ o	Peu de résistance au changement
 
 ----
 
-> Case example SODEXO (source Digital Finance Awards 2019)   
+> Exemple SODEXO (source Digital Finance Awards 2019)   
 
-- Implementation of Blackline in 4 months to manage closing, bank reconciliation, accounts justification and accounting entries on top of ERPs
-- Objectives : improve compliance, real-time collaboration of teams, closing process visibility
-- Result : harmonisation of closing process over the group
+-	Mise en place de Blackline en 4 mois pour piloter la clôture, opérer la réconciliation, justifier les comptes et générer des écritures « on top » des ERP
+-	Objectifs : répondre aux enjeux de conformité, collaboration des équipes en temps réel, visibilité sur le process de clôture. 
+-	Résultat : process de clôture harmonisé au niveau groupe
 
 ----
 
@@ -121,10 +124,13 @@ o	Peu de résistance au changement
 
 ----
 
-> Case example IPSEN « FIT Finance Ipsen Transformation » (source Digital Finance Awards 2019)
+> Exemple IPSEN « FIT Finance Ipsen Transformation » (source Digital Finance Awards 2019)
 
-- Digital dashboards = reporting tool, real-time, anywhere (PC/mobile/tablet), fit-for-purpose (adapts to each user), interactive & fancy (graphs & drill down) to check sales, costs, P&L on a given perimeter.
-- Result : lower solicitation of cost control on support presentations, better appropriation of the financial data by operations.
+-	Reporting, réel et budget, des coûts, ventes et compte de résultat
+-	accessible sur PC, tablette et smartphone (mobilité)
+-	consultation temps réel du périmètre de l’utilisateur (taylor-made)
+-	graphiques interactifs, permettant l’exploration (« drill down » & filtres)
+-	 Résultat : moins de sollicitation de la finance sur les supports de présentation, meilleure appropriation des données financières par les utilisateurs
 
 ----
 

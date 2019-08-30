@@ -30,20 +30,9 @@
 
 #### Objectifs et contenu
 
-- Présenter le champ des possibles en termes de digitalisation 
+- Présenter le champ des possibles en termes de digitalisation de la fonction
 - Explorer les pistes de mise en œuvre      
 - Mesurer l’évolution de rôle et de posture de la fonction finance
-
-----
-
-***Quels sont les grands sujets transformants, non-digitaux, de la focntion finance ?*** 
-
-- Compliance / répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)
-- Changer de posture, devenir business partner 
-- Cash is King / optimiser la trésorerie
-- Implémenter des CSP, Centres de Services Partagés    
-
-***Tous ces sujets sont fortement liés au digital !***   
 
 ----
 
@@ -76,20 +65,23 @@ technologies, business models et usages générés par la combinaison des SMAC:
 
 ----
 
-### 1.3. Organisation de la fonction finance d’entreprise 
+### 1.3. Organisation de la fonction finance d’entreprise   
 
+Les missions régaliennes : 
+- garantir la qualité et la conformité de l’information financière     
+- calculer les coûts et la rentabilité des activités    
+- optimiser la trésorerie et le financement   
 
 ----
 
-Les missions régaliennes : 
-- assurer les obligations contractuelles sous gestion (paie, fournisseurs, clients)
-- calculer les coûts et la rentabilité des activités 
-- optimiser la trésorerie et le financement
-- garantir la qualité et la conformité de l’information financière
+Les nouveaux enjeux :
+- S’approprier la posture du business partner
+- Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)
+- Optimiser la trésorerie 
+- Implémenter des CSP, Centres de Services Partagés    
+- Mener la transformation organisationnelle et technologique des processus
 
-Les nouvelles missions : 
-- mener la transformation organisationnelle et technologique des processus
-- s’approprier la posture du business partner
+***Tous ces enjeux sont fortement liés au digital !***   
 
 ----
 

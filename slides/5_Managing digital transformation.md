@@ -23,9 +23,9 @@
 > Source : Les Echos Executive, 15 Mars 2019 (panel 75% grand groupe / 25% PME)
 
 **Principale difficultés rencontrées**
-- transformation culturelle et la conduite du changement
-- poids de l'héritage SI / logiciel
-- allocation des ressources et évolution des compétences
+- Transformation culturelle et la conduite du changement
+- Poids de l'héritage SI / logiciel
+- Allocation des ressources et évolution des compétences
 
 ----
 
@@ -35,10 +35,11 @@
 
 **PEOPLE: COMPETENCES ET ADHESION**      
 
-- Equipe d’exécution : organisation et gouvernance, allocation temps, compétences, mindset    
-- Utilisateurs / stakeholders : change management / communication / formation
-- Stakeholders management : aligner intérêts / politique interne
-- Prévoir la résistance au changement (individuel et organisationnel) et identifier les enjeux organisationnels et/ou sociaux
+- Equipe d’exécution : organisation, allocation temps, compétences, mindset    
+- Utilisateurs : communication, formation, change management
+- Stakeholders management : aligner intérêts, politique interne    
+
+**Assumer la résistance au changement (individuelle et organisationnelle) et identifier les enjeux organisationnels et sociaux**
 
 ----
 
@@ -65,7 +66,7 @@
 
 ### 5.4. Global ou local?
 
-- Stratégie digitale globale, ou politique des petits pas?    
+- Stratégie digitale globale, ou décentralisée?    
 - Top down ou bottom up?   
 - Management proactif ou résistant?
 
@@ -74,8 +75,8 @@
 #### Stratégie globale : vision et mise en œuvre      
 
 ***1. Definir la vision strategique***       
-***2. Engager les stakeholders***
-***3. Planing de réalisation en mode projet***
+***2. Engager les stakeholders***     
+***3. Planing de réalisation en mode projet***     
 ***4. Budget adapté (resources et expertise)***
 
 ----
@@ -109,7 +110,7 @@ Des initiatives nombreuses, avec ou sans stratégie globale
 
 - Un rôle qui évolue vers : le business (analyses et « Conseil » aux opérationnels) et la techno (data management, gestion de projets, interface DSI)     
 - Une organisation qui consolide ses capacités en Data management (data scientists…)   
-- Réduction des tâches à faible valeur ajoutée : opportunité ou enjeu social ?  
+- Une réduction des tâches à faible valeur ajoutée (opportunité ou enjeu social ?)  
 
 *Un nouveau poste: le CFIO, Chief Financial Information Officer / CFTO, Chief Financial Transformation Officer, Chief Financial Technology Officer. [The Rise of the CFTO](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)*    
 
@@ -117,7 +118,8 @@ Des initiatives nombreuses, avec ou sans stratégie globale
 
 #### La place de la fonction finance dans l’entreprise 
 
-Le Digital supprime les silos entre fonctions. Alors, concurrence pour le management de la data ?    
+Le Digital supprime les silos entre fonctions.    
+Alors, concurrence pour le management de la data ?    
 - Fonction finance, garant des chiffres
 - Fonction marketing ou RH, utilisateurs massifs et « historiques »    
 - DSI, maître d’œuvre technique     
@@ -128,12 +130,15 @@ Le Digital supprime les silos entre fonctions. Alors, concurrence pour le manage
 
 ##### La fonction Finance : Expert ou « business partner » ? Un enjeu existentiel ?     
 
-- Un expert des affaires financières (IFRS, tax, compliance, communication financière, M&A…)      
-- Le maître incontesté des chiffres et des données, champion du digital       
-- le moteur de la transformation digitale : locomotive du changement ?
+1 Un expert des affaires financières (IFRS, tax, compliance, communication financière, M&A…)      
+2 Le maître incontesté des chiffres et des données, champion du digital       
+3 le moteur de la transformation digitale : locomotive du changement ?
 
 ----
 
-LA FONCTION FINANCE : FOURNISSEUR DE SOLUTIONS "FINANCIERES" ELEGANTES ET EFFICIENTES, BUSINESS PARTNER AVISE ET PREDICTIF, MOTEUR DU CHANGEMENT DANS UN MONDE DIGITAL
+LA FONCTION FINANCE : 
+FOURNISSEUR DE SOLUTIONS "FINANCIERES" ELEGANTES ET EFFICIENTES
+BUSINESS PARTNER AVISE ET PREDICTIF
+MOTEUR DU CHANGEMENT DANS UN MONDE DIGITAL
 
 

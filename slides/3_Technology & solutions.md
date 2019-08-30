@@ -1,37 +1,17 @@
 ## Chapitre 4 - Technologies & solutions
 
-1. Saas / Cloud
-2. ERP
-3. Produits spécifiques aux process
-4. RPA Robotic Process Automation 
-5. BI softwares (OLAP / EPM)
-7. Big Data & analytics / IA 
-8. [ Blockchain ]
+1. ERP et produits spécifiques aux process
+2. RPA Robotic Process Automation 
+3. Cube OLAP, BI et EPM
+4. Big Data & analytics / IA  
 
 ----
 
-### 1. Clear on Saas and the like?
-
-Usual apps run more & more in Saas mode (Software as a service or Cloud app services). 
-"Partial" cloudisaiton can also be implemented with Paas (Platform as a sercie) or Iaas (Infrastrucutre as a service). 
-See [IaaS, PaaS, SaaS Explained and Compared](https://apprenda.com/library/paas/iaas-paas-saas-explained-compared/)     
-
-----
-
-### 2. Clear on what's an ERP ?
-ERP (Enterprise Resource Planning) = a group of interconnected modules + a database.
-
-[see here for ERP fundamentals](https://www.oracle.com/applications/erp/what-is-erp.html)
-
-[and here for a neat video to summarize the transversal role of an ERP](https://videos.cdn.sap.com/vod/2017/delivering-on-the-promise.mp4)
-
-----
-
+### 4.1. ERP et produits spécifiques aux process    
 <img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
 
 ----
 
-### 3. Off-the-shelf products 
 A number of "products" handle automatisation of trasnacitonal processes:
 - ERP module implementation (SAP, Oracle, MS Dynamics…)
 - Market-leading specific business applications, taylored to a specific process (e.g. Blackline for accounting)    
@@ -40,7 +20,7 @@ A number of "products" handle automatisation of trasnacitonal processes:
 
 ----
 
-### 4. RPA Robotic Process Automation
+### 4.2. RPA Robotic Process Automation
 
 A robot automates human tasks, it works ideally if : 
 - very repetitive tasks
@@ -67,14 +47,15 @@ ROI very dependent of repetitivity.
 
 ----
 
+### 4.3. Cube OLAP, BI et EPM
 
-### 6. BI softwares (WIP)
+WIP Work In Progress 
 
 https://www.archerpoint.com/business-intelligence-bi-software
 
 ----
 
-### 7. Big Data & analytics / IA 
+### 4.4. Big Data & analytics / IA 
 
 WIP Work In Progress 
 

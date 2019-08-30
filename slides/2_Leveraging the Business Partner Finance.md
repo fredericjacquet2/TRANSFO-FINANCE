@@ -4,9 +4,9 @@ Aller au-delà de la digitalisation de process existants, pour une approche pré
 ----
 
 ##### Evolution de la finance Business Partner
-Du contrôle de gestion vers le management de la performance en mode prédictif, une fonction finance :
-- plus proche du business (biz partner)
-- plus proche de la technologie (IT/ BI / EPM / Big Data / Analytics / IA)
+Une fonction finance :
+- Plus proche du business (biz partner)
+- Plus proche de la technologie (IT/ BI / EPM / Big Data / Analytics / IA)
 - Maître de la donnée (Data factory)
 - Prédictive plutôt que réactive
 
@@ -51,7 +51,7 @@ Le modèle actuel basé sur la comptabilité et le reporting est condamné. La d
 
 > **Exemple BARILLA (source Digital Finance Awards 2019 & autres)**     
 
-- Projet "TPO" ((Trade Promotion Optimization)), solution d’optimisation des offres promotionnelles, destinée aux équipes commerciales
+- Projet "TPO" (Trade Promotion Optimization), solution d’optimisation des offres promotionnelles, destinée aux équipes commerciales
 - Responsabilité du projet attribuée à la Finance (renforcement Business Partnering)
 - Développements machine learning sur bases big data
 - Résultat : calcul ROI prévisionnel, fonction de variables multiples (typologie produits, magasins, périodes de l’année…)
@@ -62,7 +62,8 @@ Le modèle actuel basé sur la comptabilité et le reporting est condamné. La d
 
 <img src="images/FDJ1.png" style="background:none; border:none; box-shadow:none;"/>    
 
-Marché en forte croissance, très compétitif. 
+Marché en forte croissance, très compétitif.     
+
 Objectifs = augmentation parts de marché et amélioration de la rentabilité de l’activité paris sportifs
 
 ----
@@ -73,20 +74,26 @@ Un des chantiers : le coût d’acquisition clients
 ----
 
 Constat de départ :    
-- On connait le coût net des offres promotionnelles + l’évolution part de marché et rentabilité de l’activité
+- On connait le coût net des offres promotionnelles + l’évolution part de marché et rentabilité de l’activité     
+
 Questions clé : 
 - Quel est l’impact de l’offre promotionnelle sur l’augmentation de part de marché ?
-- Quel est le ROI de l’offre promotionnelle ?
+- Quel est le ROI de l’offre promotionnelle ?     
+
 Pour apporter des éléments de réponse :   
 - Comprendre et différencier les comportements et les typologies des joueurs en fonction du contexte   
 
 ----
 
 Analyses Data :
--	Analyse historique sur bases de données structurées (plusieurs années d’historique)   
--	Mise en place d’un enregistrement fin du comportement du joueur internet   
--	Mise en place d’analyse sur données non structurées et temps réel (réseaux sociaux, news…)   
--	Grandes clés d’analyse : profil des joueurs / profil des matchs / chronologie    
+-	Analyse historique sur bases de données structuréesvvvvv   
+-	Enregistrement du comportement du joueur internet   
+-	Analyse sur données non structurées et temps réel (réseaux sociaux, news…)   
+
+Grandes clés d’analyse : profil des joueurs / profil des matchs / chronologie    
+
+----
+
 Résultat: 
 -	Une analyse prédictive   
 -	qui fournit des tendances clés de mesure et d’optimisation du coût d’acquisition client    
@@ -94,3 +101,4 @@ Résultat:
 
 ----
 
+*fin de ce chapitre*

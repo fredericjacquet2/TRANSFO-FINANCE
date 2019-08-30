@@ -30,21 +30,19 @@
 
 #### Objectifs et contenu
 
-- Présenter le champ des possibles 
-- Comprendre l’évolution du rôle de la fonction finance
+- Présenter le champ des possibles en termes de digitalisation 
 - Explorer les pistes de mise en œuvre      
-----
-***Les sujets Transfo Finance non-digitaux sont exclus***
+- Mesurer l’évolution de rôle et de posture de la fonction finance
 
 ----
 
-***Quels sont les sujets Transfo Finance non-digitaux (non abordés dans cette présentation) ?*** 
+***Quels sont les grands sujets transformants, non-digitaux, de la focntion finance ?*** 
 
 - Compliance / répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)
 - Changer de posture, devenir business partner 
 - Cash is King / optimiser la trésorerie
 - Implémenter des CSP, Centres de Services Partagés    
-----
+
 ***Tous ces sujets sont fortement liés au digital !***   
 
 ----
@@ -64,7 +62,8 @@
 
 Des définitions multiples, une affaire de perception   
 
-Digital = technologies, business models et usages générés par la combinaison des SMAC:   
+DIGITAL =    
+technologies, business models et usages générés par la combinaison des SMAC:   
 
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
@@ -79,6 +78,18 @@ Digital = technologies, business models et usages générés par la combinaison 
 
 ### 1.3. Organisation de la fonction finance d’entreprise 
 
+
+----
+
+Les missions régaliennes : 
+- assurer les obligations contractuelles sous gestion (paie, fournisseurs, clients)
+- calculer les coûts et la rentabilité des activités 
+- optimiser la trésorerie et le financement
+- garantir la qualité et la conformité de l’information financière
+
+Les nouvelles missions : 
+- mener la transformation organisationnelle et technologique des processus
+- s’approprier la posture du business partner
 
 ----
 

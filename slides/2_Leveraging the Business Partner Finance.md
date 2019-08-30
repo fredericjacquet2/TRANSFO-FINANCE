@@ -58,6 +58,10 @@ Le modèle actuel basé sur la comptabilité et le reporting est condamné. La d
 
 ----
 
+*ANNEXE*
+
+----
+
 > Illustration : acteur des paris sportifs en ligne    
 
 <img src="images/FDJ1.png" style="background:none; border:none; box-shadow:none;"/>    

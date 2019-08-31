@@ -39,17 +39,17 @@
 - Utilisateurs : communication, formation, change management
 - Stakeholders management : aligner intérêts, politique interne    
 
-**Assumer la résistance au changement (individuelle et organisationnelle) et identifier les enjeux organisationnels et sociaux**
+**Assumer la résistance au changement (individuelle et organisationnelle) et identifier les enjeux sociaux**
 
 ----
 
 **PROCESS**    
 
 - Process définis et formalisés (sur l’ensemble du périmètre), complets et précis (pas d’intervention humaine pour clarifier le process), yc exceptions      
-- Une excellente opportunité de clarifier !    
+- Une excellente opportunité de clarifier les porcess !    
 
 **OUTILS**
-- Eviter l’approche "outil d’abord” : solution adaptée au besoin (specs & sélection)    
+- Eviter l’approche "tool first" : solution adaptée au besoin (specs & sélection)    
 - La difficile gestion de l’existant
 
 ----
@@ -108,7 +108,7 @@ Des initiatives nombreuses, avec ou sans stratégie globale
 
 ----
 
-- Un rôle qui évolue vers : le business (analyses et « Conseil » aux opérationnels) et la techno (data management, gestion de projets, interface DSI)     
+- Un rôle qui évolue vers : le business (analyses et rôle de « Conseil » aux opérationnels) et la techno (data management, gestion de projets, interface DSI)     
 - Une organisation qui consolide ses capacités en Data management (data scientists…)   
 - Une réduction des tâches à faible valeur ajoutée (opportunité ou enjeu social ?)  
 
@@ -130,15 +130,18 @@ Alors, concurrence pour le management de la data ?
 
 ##### La fonction Finance : Expert ou « business partner » ? Un enjeu existentiel ?     
 
-1 Un expert des affaires financières (IFRS, tax, compliance, communication financière, M&A…)      
-2 Le maître incontesté des chiffres et des données, champion du digital       
-3 le moteur de la transformation digitale : locomotive du changement ?
+1. Un expert des affaires financières (IFRS, tax, compliance, communication financière, M&A…)      
+2. Le maître incontesté des chiffres et des données, champion du digital       
+3. le moteur de la transformation digitale : locomotive du changement ?
 
 ----
 
-LA FONCTION FINANCE : 
-FOURNISSEUR DE SOLUTIONS "FINANCIERES" ELEGANTES ET EFFICIENTES
-BUSINESS PARTNER AVISE ET PREDICTIF
+LA FONCTION FINANCE :     
+
+FOURNISSEUR DE SOLUTIONS "FINANCIERES" ELEGANTES ET EFFICIENTES     
+
+BUSINESS PARTNER AVISE ET PREDICTIF     
+
 MOTEUR DU CHANGEMENT DANS UN MONDE DIGITAL
 
 

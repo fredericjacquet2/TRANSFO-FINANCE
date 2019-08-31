@@ -34,7 +34,7 @@ DIGITAL
 = technologies, business models et usages générés par la combinaison des SMAC   
 
   -	Social (réseaux sociaux, communication - information) 
-  -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)
+  -	Mobilité (solutions anywhere, anytime, anydevice)
   -	Analytics (opportunités offertes pas l’analyse big data)
   -	Cloud (fluidité du stockage et accès à l’information)  
 

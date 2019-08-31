@@ -47,9 +47,9 @@ DIGITAL
 ### 1.3. Organisation de la fonction finance d’entreprise   
 
 Les missions régaliennes : 
-- garantir la qualité et la conformité de l’information financière     
-- calculer les coûts et la rentabilité des activités    
-- optimiser la trésorerie et le financement   
+- Garantir la qualité et la conformité de l’information financière     
+- Calculer les coûts et la rentabilité des activités    
+- Optimiser la trésorerie et le financement   
 
 ----
 

@@ -1,10 +1,10 @@
 ## Chapitre 3 – Leverager le Business Partner
-Aller au-delà de la digitalisation de process existants, pour une approche prédictive du management de la performance (Big Data & Analytics, IA)
+Aller au-delà de la digitalisation de process existants, pour une approche prédictive du management de la performance (Big Data & Analytics)
 
 ----
 
-##### Evolution de la finance Business Partner
-Une fonction finance :
+##### Evolution de la finance Business Partner     
+
 - Plus proche du business (biz partner)
 - Plus proche de la technologie (IT/ BI / EPM / Big Data / Analytics / IA)
 - Maître de la donnée (Data factory)

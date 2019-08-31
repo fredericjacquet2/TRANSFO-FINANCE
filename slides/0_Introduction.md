@@ -30,8 +30,8 @@
 
 Des définitions multiples, une affaire de perception   
 
-DIGITAL =    
-technologies, business models et usages générés par la combinaison des SMAC:   
+DIGITAL    
+= technologies, business models et usages générés par la combinaison des SMAC   
 
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions de mobilité : anywhere, anytime, anydevice)

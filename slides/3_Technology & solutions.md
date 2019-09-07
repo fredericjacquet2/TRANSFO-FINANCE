@@ -12,11 +12,14 @@
 
 ----
 
-A number of "products" handle automatisation of trasnacitonal processes:
-- ERP module implementation (SAP, Oracle, MS Dynamics…)
-- Market-leading specific business applications, taylored to a specific process (e.g. Blackline for accounting)    
+Produits pour gérer la digitalisation des process transacitonnels = modules ERP et/ou Apps spécifiques : 
+- T&E : : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)
+- S2P / P2P : : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)
+- O2C : 
+- R2R : : [Blackline](https://www.blackline.com/)
+- Complicance : 
 
-*Include and/or can be "leveraged" with specific add-ons (RPA or Dataviz for example)*
+*Ces porduits incluent et/ou peuvent être associés à des produits type RPA / Dataviz / IA*
 
 ----
 

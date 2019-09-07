@@ -134,4 +134,4 @@ L'opportunité de réinventer la fonction finance : plus efficiente, plus réact
 
 ----
 
-*fin du chapitre 2*
+*fin du chapitre 2 (Digitalisation des process de la fonction Finance)*

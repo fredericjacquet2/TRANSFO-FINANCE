@@ -86,4 +86,4 @@ Objectifs :
 
 ----
 
-*fin du chapitre*
+*fin du chapitre 1 (Introduction)*

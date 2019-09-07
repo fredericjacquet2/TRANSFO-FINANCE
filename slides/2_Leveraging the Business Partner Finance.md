@@ -105,4 +105,4 @@ Résultat:
 
 ----
 
-*fin de ce chapitre*
+*fin du chapitre 3 (leverager le Business Partner)*

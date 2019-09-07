@@ -2,7 +2,7 @@
 
 1. Statistiques : où en sont les entreprises ? 
 2. Facteurs de succès : people, process, outils
-3. Compétences : soft skills, Project management, Change, Techno 
+3. Développement des compétences : soft skills, Project management, Change, Techno 
 4. Global ou local ?
 5. Nouveaux rôles, nouvelle posture de la fonction finance   
 
@@ -46,10 +46,10 @@
 **PROCESS**    
 
 - Process définis et formalisés (sur l’ensemble du périmètre), complets et précis (pas d’intervention humaine pour clarifier le process), yc exceptions      
-- Une excellente opportunité de clarifier les porcess !    
+- Une excellente opportunité de clarifier les process !    
 
 **OUTILS**
-- Eviter l’approche "tool first" : solution adaptée au besoin (specs & sélection)    
+- Eviter l’approche "tool first"         
 - La difficile gestion de l’existant
 
 ----
@@ -57,7 +57,7 @@
 ### 5.3. Compétences 
 - Soft skills    
 - Project management     
-- Change       
+- Accompagnement au changement      
 - Techno      
 
 > Key slills (M. Page CFO baromter) : *learning new methods and technologies such as data analytics, and improving their social, communication and change management competences.*
@@ -66,7 +66,7 @@
 
 ### 5.4. Global ou local?
 
-- Stratégie digitale globale, ou décentralisée?    
+- Stratégie digitale globale ou décentralisée?    
 - Top down ou bottom up?   
 - Management proactif ou résistant?
 
@@ -77,7 +77,7 @@
 ***1. Definir la vision strategique***       
 ***2. Engager les stakeholders***     
 ***3. Planing de réalisation en mode projet***     
-***4. Budget adapté (resources et expertise)***
+***4. Budget adapté (resources et expertise / Change)***
 
 ----
 
@@ -108,7 +108,7 @@ Des initiatives nombreuses, avec ou sans stratégie globale
 
 ----
 
-- Un rôle qui évolue vers : le business (analyses et rôle de « Conseil » aux opérationnels) et la techno (data management, gestion de projets, interface DSI)     
+- Un rôle qui évolue vers : le business (analyses et rôle de « Conseil » aux opérationnels) et la techno (data management, choix et config produits, gestion de projets IT et interface DSI)     
 - Une organisation qui consolide ses capacités en Data management (data scientists…)   
 - Une réduction des tâches à faible valeur ajoutée (opportunité ou enjeu social ?)  
 

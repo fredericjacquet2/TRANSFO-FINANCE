@@ -64,4 +64,4 @@ WIP Work In Progress
 
 ----
 
-*fin du chapitre 4*
+*fin du chapitre 4 (Technologies & solutions)*

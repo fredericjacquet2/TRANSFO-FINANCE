@@ -144,4 +144,8 @@ BUSINESS PARTNER AVISE ET PREDICTIF
 
 MOTEUR DU CHANGEMENT DANS UN MONDE DIGITAL
 
+----
+
+*fin du chapitre 5 (Implémenter la transformation) et fin de cette présentation*
+
 

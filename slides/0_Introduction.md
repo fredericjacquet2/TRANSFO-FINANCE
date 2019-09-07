@@ -64,10 +64,6 @@ Les enjeux récents :
 
 ----
 
-<img src="images/DF1.png" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
 <img src="images/DF2.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
@@ -75,7 +71,7 @@ Les enjeux récents :
 ### 1.1. Présentation générale
 
 Objectifs :    
-- Présenter le champ des possibles en termes de digitalisation de la fonction     
+- Présenter le champ des possibles en termes de digitalisation de la fonction finance      
 - Explorer les pistes de mise en œuvre        
 - Mesurer l’évolution de rôle et de posture de la fonction finance     
 
@@ -84,7 +80,7 @@ Objectifs :
 #### Plan de la présentation (si sur PC, press ESC)  
 - Chapitre 1 = Introduction
 - Chapitre 2 = Digitalisation des process de la fonction finance 
-- Chapitre 3 = Leverager le "business partner" avec l’Analytics
+- Chapitre 3 = Leverager le "business partner" avec le Big Data et l’Analytics
 - Chapitre 4 = Technologies & solutions
 - Chapitre 5 = Implémenter la transformation
 

@@ -4,7 +4,7 @@
 2. Facteurs de succès : people, process, outils
 3. Développement des compétences : soft skills, Project management, Change, Techno 
 4. Global ou local ?
-5. Nouveaux rôles, nouvelle posture de la fonction finance   
+5. Nouvelle posture de la fonction finance   
 
 ----
 
@@ -58,7 +58,7 @@
 - Soft skills    
 - Project management     
 - Accompagnement au changement      
-- Techno      
+- Techno (solutions et technologies existantes, data management)     
 
 > Key slills (M. Page CFO baromter) : *learning new methods and technologies such as data analytics, and improving their social, communication and change management competences.*
 
@@ -91,24 +91,20 @@
 
 #### Approche locale : la politique des petits pas
 
-Une large source d'inspiration !
-
 Des initiatives nombreuses, avec ou sans stratégie globale 
 
-----
+> Exemple : signature électronique des ordres de virement au sein d'un grand groupe européen     
 
-> Exemple : signature électronique des ordre de virement au sein d'un grand grooupe européen     
-
-- Mise en place de Docusing comme outil intenre pour remplacer les parapheurs "physiques"   
+- Mise en place de Docusing comme outil interne pour remplacer les parapheurs "physiques"   
 - Résultat : amélioration du process trésorerie et des délais de paiements
 
 ----
 
-### 5.5. Nouveaux rôles, nouvelle posture de la fonction finance   
+### 5.5. Nouvelle posture de la fonction finance   
 
 ----
 
-- Un rôle qui évolue vers : le business (analyses et rôle de « Conseil » aux opérationnels) et la techno (data management, choix et config produits, gestion de projets IT et interface DSI)     
+- Un rôle qui évolue vers : le business (analyses et rôle de « Conseil » aux opérationnels) et la techno (choix et config produits, data management, gestion de projets IT et interface DSI)     
 - Une organisation qui consolide ses capacités en Data management (data scientists…)   
 - Une réduction des tâches à faible valeur ajoutée (opportunité ou enjeu social ?)  
 
@@ -131,8 +127,8 @@ Alors, concurrence pour le management de la data ?
 ##### La fonction Finance : Expert ou « business partner » ? Un enjeu existentiel ?     
 
 1. Un expert des affaires financières (IFRS, tax, compliance, communication financière, M&A…)      
-2. Le maître incontesté des chiffres et des données, champion du digital       
-3. le moteur de la transformation digitale : locomotive du changement ?
+2. Le Business Partner, maître incontesté des chiffres et des données, champion du digital       
+3. le moteur de la transformation digitale : la locomotive du changement ?
 
 ----
 

@@ -15,7 +15,7 @@
 
 #### POURQUOI : Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
 
-#### COMMENT : Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistances
+#### COMMENT : Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistance
 
 ----
 
@@ -44,7 +44,7 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
   - Produits low-cost « off the shelf »   
   - Simplicité intégration IT / ERP    
   - Législation aidante    
-  - Utilisateur auto-formés et équipés (mobilité)   
+  - Utilisateurs auto-formés et équipés (mobilité)   
   - Peu de résistance au changement       
 
 ----

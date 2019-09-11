@@ -13,10 +13,11 @@
 ----
 
 Produits pour gérer la digitalisation des process transacitonnels = modules ERP et/ou Apps spécifiques : 
-- T&E : : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo for T&E](https://www.traveldoo.com/)
+- T&E : : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo](https://www.traveldoo.com/)
 - S2P / P2P : : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)
 - O2C : 
 - R2R : : [Blackline](https://www.blackline.com/)
+- Cash management : [Kyriba](https://www.kyriba.fr/)
 - Complicance : 
 
 *Ces porduits incluent et/ou peuvent être associés à des produits type RPA / Dataviz / IA*

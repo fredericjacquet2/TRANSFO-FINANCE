@@ -1,18 +1,19 @@
 ## Digital et Transformation de la fonction Finance  
 
 > Frédéric Jacquet ([profil LinkedIn](https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-jacquet-87a21956/))   
-> - CFO de Teolia, société de conseil en innovation technologique     
 > - Professeur Affilié à l’EDHEC    
+> - CFO de Teolia, société de conseil en innovation technologique     
+
 
 ---
 
-**Présentation open source / conçue avec [Reveal.js](https://revealjs.com/#/) / disponible sur [mon profil GitHub](https://github.com/fredericjacquet2)/ imprimable**     
+**Présentation open source / conçue avec: [Reveal.js](https://revealjs.com/#/) / disponible sur: [mon profil GitHub](https://github.com/fredericjacquet2)/ imprimable**     
 
 *Cette version : Août 2019*
 
 *Pour une version plus détaillée, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/)*   
 
-*Pour une session en présentiel, me contacter (frederic.jacquet@teolia.fr) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
+*Pour une session en présentiel, me contacter (frederic.jacquet@edhec.com) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
 
 ---
 
@@ -30,8 +31,8 @@
 
 Des définitions multiples, une affaire de perception   
 
-DIGITAL    
-= technologies, business models et usages générés par la combinaison des SMAC   
+DIGITAL:    
+technologies, business models et usages générés par la combinaison des "SMAC"   
 
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions anywhere, anytime, anydevice)
@@ -56,7 +57,7 @@ Les missions régaliennes :
 Les enjeux récents :
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)    
 - Optimiser la trésorerie    
-- Implémenter des CSP, Centres de Services Partagés      
+- Implémenter des CSP (Centres de Services Partagés)      
 - S’approprier la posture du business partner    
 - Mener la transformation organisationnelle et technologique des processus    
 

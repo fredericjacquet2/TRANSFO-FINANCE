@@ -72,9 +72,9 @@ Les enjeux récents :
 ### 1.1. Présentation générale
 
 Objectifs :    
-- Présenter le champ des possibles en termes de digitalisation de la fonction finance      
-- Explorer les pistes de mise en œuvre        
-- Mesurer l’évolution de rôle et de posture de la fonction finance     
+- Présenter le champ des possibles en termes de digitalisation des process de la fonction finance      
+- Explorer les pistes de mise en œuvre           
+- Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance     
 
 ----
 

@@ -2,7 +2,7 @@
 
 1. ERP et produits spécifiques aux process
 2. RPA Robotic Process Automation 
-3. Cube OLAP, BI et EPM
+3. BI, cube OLAP, Dataviz et EPM
 4. Big Data & analytics / IA  
 
 ----
@@ -51,7 +51,7 @@ ROI very dependent of repetitivity.
 
 ----
 
-### 4.3. BI, cube OLAP, EPM
+### 4.3. BI, cube OLAP, Dataviz et EPM
 
 Business intelligence (BI)  = applications, infrastructure and best practices that enable access to and analysis of information to improve and optimize decisions and performance.      
 

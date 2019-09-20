@@ -51,13 +51,48 @@ ROI very dependent of repetitivity.
 
 ----
 
-### 4.3. Cube OLAP, BI et EPM
+### 4.3. BI, cube OLAP, EPM
 
-WIP Work In Progress 
+Business intelligence (BI)  = applications, infrastructure and best practices that enable access to and analysis of information to improve and optimize decisions and performance.      
 
-https://www.archerpoint.com/business-intelligence-bi-software
+BI process = collecting, organizing, and analyzing data, and turning it into useful and actionable information. 
 
 ----
+
+Data management – From Data Warehouse to neat reporting      
+    
+<img src="images/olap7.png" style="background:none; border:none; box-shadow:none;"/>      
+
+----
+
+
+<img src="images/OLAP3.png" style="background:none; border:none; box-shadow:none;"/>      
+
+----
+
+-	First challenge : centralising the data in a single Warehose (ETL products)     
+-	Second challenge : have a quick & efficient access to required information (the OLAP cube)     
+-	Third challenge : presenting the information in a clear, nice and tailored manner to the user (the data visualisation products)     
+-	And a last challenge (for next chapter) : finding patterns in the warehouse’s data, in order to predict trends.  
+ 
+----
+
+The OLAP cube (Online Analytical Processing) : 
+
+-	Pre-compute all the totals and subtotals needed for reporting
+-	Totals are stored in a special database called « OLAP cube » which is a snapshot of data at a specific point of time.
+-	OLAP cube efficiency : instant access to data (no need to loop through any transaction, as all totals are precalculated)
+
+----
+
+<img src="images/olap3.png" style="background:none; border:none; box-shadow:none;"/>      
+
+----
+More details on Bi implementation :
+https://www.altexsoft.com/blog/business/complete-guide-to-business-intelligence-and-analytics-strategy-steps-processes-and-tools/
+
+----
+
 
 ### 4.4. Big Data & analytics / IA 
 

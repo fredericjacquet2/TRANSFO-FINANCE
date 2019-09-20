@@ -66,7 +66,7 @@ Data management (from raw data to fancy reporting)
 ----
 
 
-<img src="images/OLAP3.png" style="background:none; border:none; box-shadow:none;"/>      
+<img src="images/OLAP3.jpg" style="background:none; border:none; box-shadow:none;"/>      
 
 ----
 

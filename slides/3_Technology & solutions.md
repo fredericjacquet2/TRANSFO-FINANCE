@@ -20,7 +20,7 @@ Produits pour gérer la digitalisation des process transacitonnels = modules ERP
 - Cash management : [Kyriba](https://www.kyriba.fr/)
 - Complicance : 
 
-*Ces porduits incluent et/ou peuvent être associés à des produits type RPA / Dataviz / IA*
+*Ces produits incluent et/ou peuvent être associés à des produits type RPA / Dataviz / IA*
 
 ----
 
@@ -59,9 +59,9 @@ BI process = collecting, organizing, and analyzing data, and turning it into use
 
 ----
 
-Data management – From Data Warehouse to neat reporting      
+Data management (from raw data to fancy reporting)      
     
-<img src="images/olap7.png" style="background:none; border:none; box-shadow:none;"/>      
+<img src="images/OLAP7.png" style="background:none; border:none; box-shadow:none;"/>      
 
 ----
 
@@ -74,7 +74,7 @@ Data management – From Data Warehouse to neat reporting
 -	Second challenge : have a quick & efficient access to required information (the OLAP cube)     
 -	Third challenge : presenting the information in a clear, nice and tailored manner to the user (the data visualisation products)     
 -	And a last challenge (for next chapter) : finding patterns in the warehouse’s data, in order to predict trends.  
- 
+
 ----
 
 The OLAP cube (Online Analytical Processing) : 
@@ -88,6 +88,7 @@ The OLAP cube (Online Analytical Processing) :
 <img src="images/olap3.png" style="background:none; border:none; box-shadow:none;"/>      
 
 ----
+
 More details on Bi implementation :
 https://www.altexsoft.com/blog/business/complete-guide-to-business-intelligence-and-analytics-strategy-steps-processes-and-tools/
 

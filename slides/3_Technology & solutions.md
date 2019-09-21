@@ -55,7 +55,9 @@ ROI very dependent of repetitivity.
 
 Business intelligence (BI)  = applications, infrastructure and best practices that enable access to and analysis of information to improve and optimize decisions and performance.      
 
-BI process = collecting, organizing, and analyzing data, and turning it into useful and actionable information. 
+BI process = collecting, organizing, and analyzing data, and turning it into useful and actionable information.   
+
+BI end-user functionalities : drill-down, ad-hoc reports, interactive dashboards, mobile reports ...
 
 ----
 
@@ -93,6 +95,9 @@ More details on Bi implementation :
 https://www.altexsoft.com/blog/business/complete-guide-to-business-intelligence-and-analytics-strategy-steps-processes-and-tools/
 
 ----
+
+Produits BI : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/) ...
+Cubes OLAP : 
 
 
 ### 4.4. Big Data & analytics / IA 

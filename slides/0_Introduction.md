@@ -67,6 +67,11 @@ Les enjeux récents :
 
 ----
 
+
+<img src="images/ORGAFIN.png" style="background:none; border:none; box-shadow:none;"/>
+
+----
+
 ### 1.1. Présentation générale
 
 Objectifs :    

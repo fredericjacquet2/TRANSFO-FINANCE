@@ -9,9 +9,7 @@
 
 **Présentation open source / conçue avec: [Reveal.js](https://revealjs.com/#/) / disponible sur: [mon profil GitHub](https://github.com/fredericjacquet2)/ imprimable**     
 
-*Cette version : Août 2019*
-
-*Pour une version plus détaillée, en anglais, cliquer [ici](https://fredericjacquet2.github.io/Finance-transfo-course/#/)*   
+*Cette version : 24 Septembre 2019*
 
 *Pour une session en présentiel, me contacter (frederic.jacquet@edhec.com) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
 
@@ -72,8 +70,8 @@ Les enjeux récents :
 ### 1.1. Présentation générale
 
 Objectifs :    
-- Présenter le champ des possibles en termes de digitalisation des process de la fonction finance      
-- Explorer les pistes de mise en œuvre           
+- Présenter le champ des possibles en termes de projets de digitalisation de la fonction finance      
+- Explorer les pistes de mise en œuvre et les enjeux associés           
 - Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance     
 
 ----

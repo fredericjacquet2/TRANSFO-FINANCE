@@ -107,7 +107,8 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
 
 #### POURQUOI : mieux éclairer les opérationnels    
 -	Amélioration des process de reporting: calculs temps réel, multiplicité des KPI et analyses     
--	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)             
+-	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)      
+-    
 
 #### COMMENT : Solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)    
 

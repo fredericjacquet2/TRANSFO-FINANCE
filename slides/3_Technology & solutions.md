@@ -13,10 +13,10 @@
 ----
 
 Produits pour gérer la digitalisation des process transacitonnels = modules ERP et/ou Apps spécifiques : 
-- T&E : : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo](https://www.traveldoo.com/)
-- S2P / P2P : : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/)
+- T&E : : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo](https://www.traveldoo.com/) ...
+- S2P / P2P : : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...
 - O2C : [Sidetrade](https://www.sidetrade.com/fr/produits/financials)(recouvrement)
-- R2R : : [Blackline](https://www.blackline.com/)
+- R2R : : [Oracle Hyperion Financial Management](https://www.oracle.com/applications/performance-management/products/financial-close-reporting/hyperion-financial-management/), [Blackline](https://www.blackline.com/) ...
 - Cash management : [Kyriba](https://www.kyriba.fr/)
 - Complicance : 
 
@@ -74,7 +74,7 @@ Data management (from raw data to fancy reporting)
 
 -	First challenge : centralising the data in a single Warehose (ETL products)     
 -	Second challenge : have a quick & efficient access to required information (the OLAP cube)     
--	Third challenge : presenting the information in a clear, nice and tailored manner to the user (the data visualisation products)     
+-	Third challenge : presenting the information in a clear, nice and tailored manner to the user (data visualisation functionalities)     
 -	And a last challenge (for next chapter) : finding patterns in the warehouse’s data, in order to predict trends.  
 
 ----
@@ -84,20 +84,18 @@ The OLAP cube (Online Analytical Processing) :
 -	Pre-compute all the totals and subtotals needed for reporting
 -	Totals are stored in a special database called « OLAP cube » which is a snapshot of data at a specific point of time.
 -	OLAP cube efficiency : instant access to data (no need to loop through any transaction, as all totals are precalculated)
+[5 min on OLAP & Relarional DB](https://www.youtube.com/watch?v=2ryG3Jy6eIY)
 
 ----
 
 <img src="images/olap3.png" style="background:none; border:none; box-shadow:none;"/>      
 
-----
-
-More details on Bi implementation :
-https://www.altexsoft.com/blog/business/complete-guide-to-business-intelligence-and-analytics-strategy-steps-processes-and-tools/
+More details on Bi implementation [here](https://www.altexsoft.com/blog/business/complete-guide-to-business-intelligence-and-analytics-strategy-steps-processes-and-tools/)
 
 ----
 
-Produits BI : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/) ...
-Cubes OLAP : 
+Produits BI : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [IBM Cognos]([Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/), [IcCube](https://www.iccube.com/) ...
+
 
 
 ### 4.4. Big Data & analytics / IA 

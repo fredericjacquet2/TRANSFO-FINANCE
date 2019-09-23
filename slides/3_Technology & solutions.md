@@ -100,6 +100,12 @@ Produits BI : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://power
 
 ### 4.4. Big Data & analytics / IA 
 
+----
+
+<img src="images/BIGData.png" style="background:none; border:none; box-shadow:none;"/>      
+
+----
+
 WIP Work In Progress 
 
 ----

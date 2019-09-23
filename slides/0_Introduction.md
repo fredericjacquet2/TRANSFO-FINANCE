@@ -68,7 +68,7 @@ Les enjeux récents :
 ----
 
 
-<img src="images/ORGAFIN.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/ORGAFIN2.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

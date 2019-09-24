@@ -11,11 +11,9 @@
 
 ----
 
-#### QUOI : Dématérialisation / automatisation / robotisation    
-
-#### POURQUOI : Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
-
-#### COMMENT : Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistance
+- le QUOI : Dématérialisation / Automatisation / Robotisation    
+- le POURQUOI : Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
+- le COMMENT : Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistance
 
 ----
 
@@ -99,18 +97,15 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
 
 ----
 
-#### 2.2. Digitalisation process reporting et pilotage performance
+### 2.2. Digitalisation process reporting et pilotage performance
 
 ----
 
-#### QUOI : Reporting customisé et temps réel     
-
-#### POURQUOI : mieux éclairer les opérationnels    
--	Amélioration des process de reporting: calculs temps réel, multiplicité des KPI et analyses     
--	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)      
--    
-
-#### COMMENT : Solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)    
+- le QUOI : Reporting customisé et temps réel     
+- le POURQUOI : mieux éclairer les opérationnels    
+  -	Amélioration des process de reporting: calculs temps réel, multiplicité des KPI et analyses     
+  -	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)      
+- le COMMENT : solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)    
 
 ----
 
@@ -126,10 +121,10 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
 
 ----
 
-#### 2.3. Conclusion : Digitalisation des process de la fonction finance, une finance plus « fancy »    
+### 2.3. Conclusion : Digitalisation des process de la fonction finance, une finance plus « fancy »    
 
 - Process transactionnels (comptabilité / trésorerie) = dématérialisation et automatisation    
-- Process de pilotage = analyses multiples et temps réel, et data visualisation    
+- Process de pilotage = analyses multiples en temps réel, et data visualisation    
 
 L'opportunité de réinventer la fonction finance : plus efficiente, plus réactive (real-time), plus disponible (mobilité), plus user-friendly (portails et infos, présentations taylor-made).
 

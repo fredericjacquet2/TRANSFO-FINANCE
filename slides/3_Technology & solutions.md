@@ -57,7 +57,7 @@ Business intelligence (BI)  = applications, infrastructure and best practices th
 
 BI process = collecting, organizing, and analyzing data, and turning it into useful and actionable information.   
 
-BI end-user functionalities : drill-down, ad-hoc reports, interactive dashboards, mobile reports ...
+BI end-user functionalities : drill-down / roll-up, ad-hoc reports, interactive dashboards, mobile reports ...
 
 ----
 
@@ -94,7 +94,9 @@ More details on Bi implementation [here](https://www.altexsoft.com/blog/business
 
 ----
 
-Produits BI : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [IBM Cognos]([Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/), [IcCube](https://www.iccube.com/) ...
+BI products : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [IBM Cognos]([Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/), [IcCube](https://www.iccube.com/) ...
+OLAP tools : IBM Cognos, MS SQLServer Analysis Services SSAS, 
+FP&A / EPM (Enterprise Performance Management) products: 
 
 
 

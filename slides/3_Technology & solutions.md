@@ -12,7 +12,7 @@
 
 ----
 
-Produits pour gérer la digitalisation des process transacitonnels = modules ERP et/ou Apps spécifiques : 
+Produits pour gérer la digitalisation des process transacitonnels = modules ERP et/ou Apps spécifiques: 
 - T&E : : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo](https://www.traveldoo.com/) ...
 - S2P / P2P : : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...
 - O2C : [Sidetrade](https://www.sidetrade.com/fr/produits/financials)(recouvrement)
@@ -53,11 +53,9 @@ ROI very dependent of repetitivity.
 
 ### 4.3. BI, cube OLAP, Dataviz et EPM
 
-Business intelligence (BI)  = applications, infrastructure and best practices that enable access to and analysis of information to improve and optimize decisions and performance.      
-
-BI process = collecting, organizing, and analyzing data, and turning it into useful and actionable information.   
-
-BI end-user functionalities : drill-down / roll-up, ad-hoc reports, interactive dashboards, mobile reports ...
+- Business intelligence (BI)  = applications, infrastructure and best practices that enable access to and analysis of information to improve and optimize decisions and performance.      
+- BI process = collecting, organizing, and analyzing data, and turning it into useful and actionable information.     
+- BI end-user functionalities : drill-down / roll-up, ad-hoc reports, interactive dashboards, mobile reports ...     
 
 ----
 
@@ -98,7 +96,7 @@ BI products : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://power
 OLAP tools : IBM Cognos, MS SQLServer Analysis Services SSAS, 
 FP&A / EPM (Enterprise Performance Management) products: Anaplan, 
 
-
+----
 
 ### 4.4. Big Data & analytics / IA 
 

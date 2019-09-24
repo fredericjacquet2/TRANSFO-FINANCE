@@ -12,7 +12,8 @@
 
 *Cette version : 24 Septembre 2019*
 
-*Pour une session en présentiel, me contacter (frederic.jacquet@edhec.com) ou s'inscrire à : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
+*Pour une session en présentiel, me contacter (frederic.jacquet@edhec.com) ou s'inscrire à:*    
+*[CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
 
 ---
 
@@ -45,6 +46,8 @@ technologies, business models et usages générés par la combinaison des "SMAC"
 ----
 
 ### 1.3. Organisation de la fonction finance d’entreprise   
+
+----
 
 Les missions régaliennes : 
 - Garantir la qualité et la conformité de l’information financière     

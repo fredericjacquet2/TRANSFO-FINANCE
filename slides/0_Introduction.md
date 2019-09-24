@@ -4,7 +4,7 @@
 > - Professeur Affilié à l’EDHEC    
 > - CFO de Teolia, société de conseil en innovation technologique     
 
-*Adresse de cette présentaiton: https://fredericjacquet2.github.io/TRANSFO-FINANCE/#/*
+*https://fredericjacquet2.github.io/TRANSFO-FINANCE/#/*
 
 ---
 
@@ -64,10 +64,6 @@ Les enjeux récents :
 
 ----
 
-<img src="images/DF2.png" style="background:none; border:none; box-shadow:none;"/>
-
-----
-
 
 <img src="images/ORGAFIN2.png" style="background:none; border:none; box-shadow:none;"/>
 
@@ -75,7 +71,7 @@ Les enjeux récents :
 
 ### 1.1. Présentation générale
 
-Objectifs :    
+Objectifs :     
 - Présenter le champ des possibles en termes de projets de digitalisation de la fonction finance      
 - Explorer les pistes de mise en œuvre et les enjeux associés           
 - Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance     

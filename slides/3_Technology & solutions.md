@@ -96,7 +96,7 @@ More details on Bi implementation [here](https://www.altexsoft.com/blog/business
 
 BI products : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [IBM Cognos]([Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/), [IcCube](https://www.iccube.com/) ...
 OLAP tools : IBM Cognos, MS SQLServer Analysis Services SSAS, 
-FP&A / EPM (Enterprise Performance Management) products: 
+FP&A / EPM (Enterprise Performance Management) products: Anaplan, 
 
 
 

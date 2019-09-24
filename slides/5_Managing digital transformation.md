@@ -1,7 +1,7 @@
 ## Chapitre 5 - Implémenter la transformation
 
 1. Statistiques : où en sont les entreprises ? 
-2. Facteurs de succès : people, process, outils
+2. Facteurs de succès : people, process, tools
 3. Développement des compétences : soft skills, Project management, Change, Techno 
 4. Global ou local ?
 5. Nouvelle posture de la fonction finance   
@@ -23,7 +23,7 @@
 > Source : Les Echos Executive, 15 Mars 2019 (panel 75% grand groupe / 25% PME)
 
 **Principale difficultés rencontrées**
-- Transformation culturelle et la conduite du changement
+- Transformation culturelle et conduite du changement
 - Poids de l'héritage SI / logiciel
 - Allocation des ressources et évolution des compétences
 
@@ -46,11 +46,12 @@
 **PROCESS**    
 
 - Process définis et formalisés (sur l’ensemble du périmètre), complets et précis (pas d’intervention humaine pour clarifier le process), yc exceptions      
-- Une excellente opportunité de clarifier les process !    
+- Une excellente opportunité de clarifier les process !     
 
-**OUTILS**
-- Eviter l’approche "tool first"         
-- La difficile gestion de l’existant
+**TOOLS**     
+
+- Eviter l’approche "tool first"      
+- La difficile gestion de l’existant     
 
 ----
 
@@ -91,12 +92,10 @@
 
 #### Approche locale : la politique des petits pas
 
-Des initiatives nombreuses, avec ou sans stratégie globale 
-
 > Exemple : signature électronique des ordres de virement au sein d'un grand groupe européen     
 
 - Mise en place de Docusing comme outil interne pour remplacer les parapheurs "physiques"   
-- Résultat : amélioration du process trésorerie et des délais de paiements
+- Résultat : amélioration significative du process trésorerie et des délais de paiements
 
 ----
 
@@ -116,8 +115,8 @@ Des initiatives nombreuses, avec ou sans stratégie globale
 
 Le Digital supprime les silos entre fonctions.    
 Alors, concurrence pour le management de la data ?    
-- Fonction finance, garant des chiffres
-- Fonction marketing ou RH, utilisateurs massifs et « historiques »    
+- Fonction finance, depuis toujours le garant des chiffres
+- Fonction marketing ou RH, utilisateurs massifs et « historiques » de la Data    
 - DSI, maître d’œuvre technique     
 
 [Vidéo : vision de 2 scénarios prédictifs](https://www.youtube.com/watch?v=hU2zyRKKZ5g)

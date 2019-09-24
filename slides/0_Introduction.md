@@ -4,6 +4,7 @@
 > - Professeur Affilié à l’EDHEC    
 > - CFO de Teolia, société de conseil en innovation technologique     
 
+*Adresse de cette présentaiton: https://fredericjacquet2.github.io/TRANSFO-FINANCE/#/*
 
 ---
 
@@ -11,7 +12,7 @@
 
 *Cette version : 24 Septembre 2019*
 
-*Pour une session en présentiel, me contacter (frederic.jacquet@edhec.com) ou participer à la formation : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
+*Pour une session en présentiel, me contacter (frederic.jacquet@edhec.com) ou s'inscrire à : [CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
 
 ---
 
@@ -68,7 +69,7 @@ Les enjeux récents :
 ----
 
 
-<img src="images/ORGAFIN.png" style="background:none; border:none; box-shadow:none;"/>
+<img src="images/ORGAFIN2.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

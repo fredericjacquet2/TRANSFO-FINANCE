@@ -58,7 +58,7 @@ Les missions régaliennes :
 
 Les enjeux récents :
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)    
-- Optimiser la trésorerie    
+- Optimiser la trésorerie (centralisation tréso, optimisation bfr)        
 - Implémenter des CSP (Centres de Services Partagés)      
 - S’approprier la posture du business partner    
 - Mener la transformation organisationnelle et technologique des processus    

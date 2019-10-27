@@ -29,7 +29,7 @@
 
 ----
 
-### 5.2. Facteurs de succès : people, process, outils
+### 5.2. Facteurs de succès : people, process, tools
 
 ----
 

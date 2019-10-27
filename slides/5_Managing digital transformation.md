@@ -58,7 +58,7 @@
 ### 5.3. Compétences 
 - Soft skills    
 - Project management     
-- Accompagnement au changement      
+- Accompagnement au changement [cycle du changement en video](https://www.youtube.com/watch?v=y7MkBQ1Vv2k)     
 - Techno (solutions et technologies existantes, data management)     
 
 > Key slills (M. Page CFO baromter) : *learning new methods and technologies such as data analytics, and improving their social, communication and change management competences.*

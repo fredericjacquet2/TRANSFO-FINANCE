@@ -45,6 +45,15 @@ technologies, business models et usages générés par la combinaison des "SMAC"
 
 ----
 
+Mesurez la maturité digitale de votre entreprise :       
+
+- [test Medef](www.diag-numerique.fr)
+- [Digitalomètre BPI](https://www.bpifrance.fr/A-la-une/Dossiers/Bpifrance-accompagne-la-transformation-digitale-des-entreprises/Evaluez-votre-maturite-digitale-avec-le-Digitalometre-!-39136)     
+- [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
+
+----
+
+
 ### 1.2. Rôles et enjeux de la fonction finance d’entreprise   
 
 ----

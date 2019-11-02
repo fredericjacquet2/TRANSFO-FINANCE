@@ -25,7 +25,7 @@
 
 ----
 
-### 1.2. Le Digital, c’est quoi ?
+### 1.1. Le Digital, c’est quoi ?
 
 ----
 
@@ -45,7 +45,7 @@ technologies, business models et usages générés par la combinaison des "SMAC"
 
 ----
 
-### 1.3. Organisation de la fonction finance d’entreprise   
+### 1.2. Rôles et enjeux de la fonction finance d’entreprise   
 
 ----
 
@@ -56,10 +56,14 @@ Les missions régaliennes :
 
 ----
 
-Les enjeux récents :
+Les enjeux récents 1/2 :
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)    
 - Optimiser la trésorerie (centralisation tréso / cash pooling, optimisation bfr)        
 - Implémenter des CSP Centres de Services Partagés (mutualisaiton, efficience : enjeux, choix de périmètre et d'éloignement, process, ROI, change)      
+
+----
+
+Les enjeux récents 2/2 :
 - S’approprier la posture du business partner (la finance centre de profit plutôt que centre de coûts, contrôleur de gestion versus business analyst)   
 - Mener la transformation organisationnelle et technologique des processus    
 
@@ -72,7 +76,7 @@ Les enjeux récents :
 
 ----
 
-### 1.1. Présentation générale
+### 1.3. Présentation générale
 
 Objectifs :     
 - Présenter le champ des possibles en termes de projets de digitalisation de la fonction finance      

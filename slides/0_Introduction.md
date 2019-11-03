@@ -67,19 +67,20 @@ Les missions régaliennes :
 
 Les enjeux récents 1/2 :
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)    
-- Optimiser la trésorerie (centralisation tréso / cash pooling, chantiers d'optimisation du BFR)        
-- Implémenter des CSP Centres de Services Partagés (mutualisaiton, efficience par l'externalisation : enjeux, choix de périmètre et d'éloignement, process, ROI, change)      
+- Optimiser la trésorerie (centralisation tréso - cash pooling, chantiers d'optimisation du BFR)        
+- Implémenter des CSP Centres de Services Partagés (mutualisation, efficience par l'externalisation : objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
 
 ----
 
 Les enjeux récents 2/2 :
-- S’approprier la posture du business partner (la finance centre de profit plutôt que centre de coûts, contrôleur de gestion versus business analyst, stratégie de croissance, piloter la performance ...)   
+- S’approprier la posture du business partner (stratégie de croissance, pilotage la performance, contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts...)   
 - Mener la transformation organisationnelle et technologique des processus     
 
 ***Tous ces enjeux sont fortement liés au digital !***   
 
 ----
 
+Organisation "type" d'une direction financière     
 
 <img src="images/ORGAFIN2.png" style="background:none; border:none; box-shadow:none;"/>
 

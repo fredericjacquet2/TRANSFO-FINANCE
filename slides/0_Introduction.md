@@ -47,7 +47,7 @@ technologies, business models et usages générés par la combinaison des "SMAC"
 
 Mesurez la maturité digitale de votre entreprise :       
 
-- [test Medef](www.diag-numerique.fr)
+- [Test Medef](www.diag-numerique.fr)
 - [Digitalomètre BPI](https://www.bpifrance.fr/A-la-une/Dossiers/Bpifrance-accompagne-la-transformation-digitale-des-entreprises/Evaluez-votre-maturite-digitale-avec-le-Digitalometre-!-39136)     
 - [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
 
@@ -66,9 +66,9 @@ Les missions régaliennes :
 ----
 
 Les enjeux récents 1/2 :
-- Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …)    
-- Optimiser la trésorerie (centralisation tréso - cash pooling, chantiers d'optimisation du BFR)        
-- Implémenter des CSP Centres de Services Partagés (mutualisation, efficience par l'externalisation : objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
+- Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …) : expertise, sensibilisation-formation, outils et conformité des SI      
+- Optimiser la trésorerie : centralisation tréso (cash pooling), chantiers d'optimisation du BFR           
+- Implémenter des CSP Centres de Services Partagés : mutualisation, efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
 
 ----
 

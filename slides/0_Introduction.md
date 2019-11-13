@@ -74,7 +74,8 @@ Les enjeux récents 1/2 :
 ----
 
 Les enjeux récents 2/2 :
-- S’approprier la posture du business partner (stratégie de croissance, pilotage la performance, contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts...)   
+- S’approprier la posture du business partner (stratégie de croissance, pilotage la performance, contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts...)/ "Our controllers may understand the figures but not what it takes to improve them".... Enfin transférer la fonction finance d'un centre de coûts vers un centre de profits?          
+   
 - Mener la transformation organisationnelle et technologique des processus     
 
 ***Tous ces enjeux sont fortement liés au digital !***   

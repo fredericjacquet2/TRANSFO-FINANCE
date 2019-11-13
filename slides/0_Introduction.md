@@ -67,7 +67,7 @@ Les missions régaliennes :
 
 Les enjeux récents 1/2 :
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …) : expertise, sensibilisation-formation, outils et conformité des SI      
-- Optimiser la trésorerie : centralisation tréso (cash pooling), chantiers d'optimisation du BFR           
+- Optimiser la trésorerie (cash is king) : centralisation tréso (cash pooling), chantiers d'optimisation du BFR           
 - Implémenter des CSP Centres de Services Partagés : mutualisation, efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
 
 ----

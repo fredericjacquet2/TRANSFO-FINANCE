@@ -7,12 +7,17 @@
 
 ----
 
-### 4.1. ERP et produits spécifiques aux process    
-<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
+### 4.1. ERP et/ou produits spécifiques
 
 ----
 
-Produits pour gérer la digitalisation des process transacitonnels = modules ERP et/ou Apps spécifiques: 
+<img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
+L'ERP : services provider ou backbone IT ?     
+[SAP accompagne la transfo finance](https://news.sap.com/france/2019/03/comment-sap-supporte-transformation-fonction-finance/?campaigncode=CRM-FR19-S4H-ONEVO01LKN&source=socialad-EMEA-FR-Linkedin-VirtualSummit-SU4-CFO)     
+
+----
+
+Produits pour gérer la digitalisation des process transactionnels = modules ERP et/ou Apps spécifiques: 
 - T&E : : [Jenji](https://jenji.io/en), [KDS](https://www.kds.fr/), [Traveldoo](https://www.traveldoo.com/) ...
 - S2P / P2P : : [ESKER](https://www.esker.co.uk/), [BASWARE](https://www.basware.com/en-gb), [Tradeshift](https://tradeshift.com/), [Ivalua](https://fr.ivalua.com/) ...
 - O2C : [Sidetrade](https://www.sidetrade.com/fr/produits/financials)(recouvrement)

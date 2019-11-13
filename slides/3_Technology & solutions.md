@@ -15,6 +15,8 @@
 L'ERP : services provider ou backbone IT ?     
 [SAP accompagne la transfo finance](https://news.sap.com/france/2019/03/comment-sap-supporte-transformation-fonction-finance/?campaigncode=CRM-FR19-S4H-ONEVO01LKN&source=socialad-EMEA-FR-Linkedin-VirtualSummit-SU4-CFO)     
 
+[Discover your digital finance journey with Oracle](https://www.oracle.com/webfolder/assets/digibook/erp-cloudjourney/index.html?src=RoadmapTYP&elq_mid=94867&sh=&cmid=WWMK160606P00031C0004)
+
 ----
 
 Produits pour gérer la digitalisation des process transactionnels = modules ERP et/ou Apps spécifiques: 

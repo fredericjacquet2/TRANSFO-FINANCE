@@ -78,30 +78,26 @@ Un des chantiers : le coût d’acquisition clients
 ----
 
 Constat de départ :    
-- On connait le coût net des offres promotionnelles + l’évolution part de marché et rentabilité de l’activité     
+- On connait le coût net des offres promotionnelles, et l’évolution part de marché et rentabilité de l’activité     
 
 Questions clé : 
 - Quel est l’impact de l’offre promotionnelle sur l’augmentation de part de marché ?
 - Quel est le ROI de l’offre promotionnelle ?     
 
+----
+
 Pour apporter des éléments de réponse :   
-- Comprendre et différencier les comportements et les typologies des joueurs en fonction du contexte   
+- Comprendre et différencier les comportements et les typologies des joueurs en fonction du contexte (type de sport, période de l'année, géographie, programmation des matchs...)   
+
+Création Data lake / Data factory afin de réaliser des analyses Data : 
+-	Analyse historique sur bases de données structurées, sur données non structurées et temps réel (réseaux sociaux, news…), enregistrement du comportement du joueur internet   
 
 ----
 
-Analyses Data :
--	Analyse historique sur bases de données structuréesvvvvv   
--	Enregistrement du comportement du joueur internet   
--	Analyse sur données non structurées et temps réel (réseaux sociaux, news…)   
+Suivi de "cohortes" de joueurs, grandes clés d’analyse : profil des joueurs / des sports / des matchs / des géographies / de la chronologie    
 
-Grandes clés d’analyse : profil des joueurs / profil des matchs / chronologie    
+Résultat: une analyse prédictive, qui fournit des tendances clés de mesure et d’optimisation du coût d’acquisition client, en fonction du contexte (matchs à venir). 
 
-----
-
-Résultat: 
--	Une analyse prédictive   
--	qui fournit des tendances clés de mesure et d’optimisation du coût d’acquisition client    
--	en fonction du contexte (matchs à venir). 
 
 ----
 

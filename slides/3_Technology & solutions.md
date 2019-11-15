@@ -12,10 +12,14 @@
 ----
 
 <img src="images/erp3.png" style="background:none; border:none; box-shadow:none;"/>     
-L'ERP : services provider ou backbone IT ?     
-[SAP accompagne la transfo finance](https://news.sap.com/france/2019/03/comment-sap-supporte-transformation-fonction-finance/?campaigncode=CRM-FR19-S4H-ONEVO01LKN&source=socialad-EMEA-FR-Linkedin-VirtualSummit-SU4-CFO)     
+
+----
+
+Evolution de l'ERP : cloudisation et digitalisation, trusted partner de la transformation digitale... et backbone IT !     
 
 [Discover your digital finance journey with Oracle](https://www.oracle.com/webfolder/assets/digibook/erp-cloudjourney/index.html?src=RoadmapTYP&elq_mid=94867&sh=&cmid=WWMK160606P00031C0004)
+
+[SAP accompagne la transfo finance](https://news.sap.com/france/2019/03/comment-sap-supporte-transformation-fonction-finance/?campaigncode=CRM-FR19-S4H-ONEVO01LKN&source=socialad-EMEA-FR-Linkedin-VirtualSummit-SU4-CFO)     
 
 ----
 
@@ -99,9 +103,11 @@ More details on Bi implementation [here](https://www.altexsoft.com/blog/business
 
 ----
 
-BI products : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [IBM Cognos]([Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/), [IcCube](https://www.iccube.com/) ...
-OLAP tools : IBM Cognos, MS SQLServer Analysis Services SSAS, 
-FP&A / EPM (Enterprise Performance Management) products: Anaplan, 
+BI products : [Tableau](https://www.tableau.com/fr-fr), [Power BI](https://powerbi.microsoft.com/fr-fr/), [IBM Cognos]([Looker](https://looker.com/), [Chartio](https://chartio.com/), [Domo](https://www.domo.com/), [Qlik](https://www.qlik.com/us/), [IcCube](https://www.iccube.com/) ...        
+
+OLAP tools : IBM Cognos, MS SQLServer Analysis Services SSAS,          
+
+FP&A / EPM (Enterprise Performance Management) products: Anaplan,       
 
 ----
 

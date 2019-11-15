@@ -47,7 +47,7 @@ technologies, business models et usages générés par la combinaison des "SMAC"
 
 Mesurez la maturité digitale de votre entreprise :       
 
-- [Test Medef](www.diag-numerique.fr)
+- Test Medef : www.diag-numerique.fr    
 - [Digitalomètre BPI](https://www.bpifrance.fr/A-la-une/Dossiers/Bpifrance-accompagne-la-transformation-digitale-des-entreprises/Evaluez-votre-maturite-digitale-avec-le-Digitalometre-!-39136)     
 - [Google digital maturity benchmark](https://digitalmaturitybenchmark.withgoogle.com/en/advertisers/)    
 .... et de votre focntion finance : [test Oracle](https://valuenavigator.oracle.com/resources/VNAssessment/index.html?root=assmntQns&assmnt=AT00000001)      

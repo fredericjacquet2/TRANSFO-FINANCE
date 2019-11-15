@@ -56,12 +56,15 @@
 ----
 
 ### 5.3. Compétences 
-- Soft skills    
-- Project management     
-- Accompagnement au changement [cycle du changement en video](https://www.youtube.com/watch?v=y7MkBQ1Vv2k)     
-- Techno (solutions et technologies existantes, data management)     
 
 > Key slills (M. Page CFO baromter) : *learning new methods and technologies such as data analytics, and improving their social, communication and change management competences.*
+
+----
+
+- Soft skills    
+- Project management (gouvernance - stakeholder management, cycle en V, agilité)          
+- Accompagnement au changement [vidéo cycle du changement](https://www.youtube.com/watch?v=y7MkBQ1Vv2k)     
+- Techno (solutions et technologies existantes, data management)   
 
 ----
 
@@ -106,6 +109,8 @@
 - Un rôle qui évolue vers : le business (analyses et rôle de « Conseil » aux opérationnels) et la techno (choix et config produits, data management, gestion de projets IT et interface DSI)     
 - Une organisation qui consolide ses capacités en Data management (data scientists…)   
 - Une réduction des tâches à faible valeur ajoutée (opportunité ou enjeu social ?)  
+
+----
 
 *Un nouveau poste: le CFIO, Chief Financial Information Officer / CFTO, Chief Financial Transformation Officer, Chief Financial Technology Officer. [The Rise of the CFTO](http://www.kforceblog.com/uploads/docs/Spotlight_February.pdf)*    
 

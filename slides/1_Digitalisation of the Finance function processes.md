@@ -2,8 +2,8 @@
 ## Digitalisation des process de la fonction Finance         
 
 1. Digitalisation des process transactionnels (comptabilité / trésorerie)    
-2. Digitalisation des process de reporting    
-3. Conclusion : une finance plus fancy    
+2. Digitalisation des process de reporting / performance   
+3. Conclusion : une finance plus "fancy"    
 
 ----
 
@@ -11,9 +11,9 @@
 
 ----
 
-- le QUOI : Dématérialisation / Automatisation / Robotisation    
-- le POURQUOI : Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
-- le COMMENT : Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistance
+- QUOI : Dématérialisation / Automatisation / Robotisation    
+- POURQUOI : Réduction des coûts de process / Amélioration de la qualité de service / Réduction tâches routinières    
+- COMMENT : Solutions « produits » / intégration simplifiée / législation facilitante / utilisateurs « native » / peu de résistance
 
 ----
 
@@ -24,7 +24,7 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
 1. 100% papier
 2. Formulaire et process dématérialisé, justifs pdf
 3. OCR (optical character recognition) sur smartphone, formulaire créé en quelques secondes, extraction TVA, enregistrement preuve
-4. Validation automatisée (hors exceptions) : vérif règles, agenda, CRM, T&E ...)
+4. Validation automatisée (hors exceptions) : vérification sur règles, agenda, CRM, T&E ...
 
 ----
 
@@ -101,11 +101,11 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
 
 ----
 
-- le QUOI : Reporting customisé et temps réel     
-- le POURQUOI : mieux éclairer les opérationnels    
+- QUOI : Reporting customisé et temps réel     
+- POURQUOI : mieux éclairer les opérationnels    
   -	Amélioration des process de reporting: calculs temps réel, multiplicité des KPI et analyses     
   -	Amélioration de la communication utilisateurs: présentations ciblées pour chaque profil, mise en forme ludique (drill down, graphics)      
-- le COMMENT : solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)    
+- COMMENT : solutions “spécifiques” basées sur outils BI (Business Intelligence) et/ou EPM (Enterprise Performance Management)    
 
 ----
 
@@ -124,7 +124,7 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
 ### 2.3. Conclusion : Digitalisation des process de la fonction finance, une finance plus « fancy »    
 
 - Process transactionnels (comptabilité / trésorerie) = dématérialisation et automatisation    
-- Process de pilotage = analyses multiples en temps réel, et data visualisation    
+- Process de pilotage = analyses multiples en temps réel et data visualisation    
 
 L'opportunité de réinventer la fonction finance : plus efficiente, plus réactive (real-time), plus disponible (mobilité), plus user-friendly (portails et infos, présentations taylor-made).
 

@@ -90,7 +90,7 @@ Organisation "type" d'une direction financière
 ### 1.3. Présentation générale
 
 Objectifs :     
-- Présenter le champ des possibles en termes de projets de digitalisation de la fonction finance      
+- Présenter le champ des possibles en termes de projets de transformation - digitalisation de la fonction finance      
 - Explorer les pistes de mise en œuvre et les enjeux associés           
 - Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance     
 

@@ -109,6 +109,10 @@ Maturité, sur une échelle de 1 (has been) à 4 (futuriste)
 
 ----
 
+[Exemple de dashboard interactif](https://www.cherryblossom.digital/360)
+
+----
+
 <img src="images/bi2.jpg" style="background:none; border:none; box-shadow:none;"/>
 
 ----

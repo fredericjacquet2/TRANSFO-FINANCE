@@ -10,7 +10,7 @@
 
 **Présentation open source / conçue avec: [Reveal.js](https://revealjs.com/#/) / disponible sur: [mon profil GitHub](https://github.com/fredericjacquet2)/ imprimable**     
 
-*Cette version : 24 Septembre 2019*
+*Cette version : 14 novembre 2019*
 
 *Pour une session en présentiel, me contacter (frederic.jacquet@edhec.com) ou s'inscrire à:*    
 *[CFO Chief Financial Officer](http://www.lesechos-formation.fr/catalogue/formations-metiers/finance-gestion/cfo-chief-financial-officer.html#programme)*
@@ -31,8 +31,7 @@
 
 Des définitions multiples, une affaire de perception   
 
-DIGITAL:    
-technologies, business models et usages générés par la combinaison des "SMAC"   
+DIGITAL: technologies, business models et usages générés par la combinaison des "SMAC"   
 
   -	Social (réseaux sociaux, communication - information) 
   -	Mobilité (solutions anywhere, anytime, anydevice)
@@ -69,12 +68,12 @@ Les missions régaliennes :
 Les enjeux récents 1/2 :
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …) : expertise, sensibilisation-formation, outils et conformité des SI      
 - Optimiser la trésorerie (cash is king) : centralisation tréso (cash pooling), chantiers d'optimisation du BFR           
-- Implémenter des CSP Centres de Services Partagés : mutualisation, efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
+- Externaliser avec la mise en oeuvre de CSP Centres de Services Partagés : mutualisation - efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
 
 ----
 
 Les enjeux récents 2/2 :
-- S’approprier la posture du business partner (stratégie de croissance, pilotage la performance, contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts...)/ "Our controllers may understand the figures but not what it takes to improve them".... Enfin transférer la fonction finance d'un centre de coûts vers un centre de profits?          
+- S’approprier la posture du business partner (stratégie de croissance, pilotage la performance, contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts...). "Our controllers may understand the figures but not what it takes to improve them".          
    
 - Mener la transformation organisationnelle et technologique des processus     
 

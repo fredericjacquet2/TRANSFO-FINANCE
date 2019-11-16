@@ -15,6 +15,16 @@
 
 ----
 
+A vast number of ERP products (hundreds if not housands). 
+Three leaders, concentrating 50% of th emarket:
+- SAP
+- ORACLE
+- Miscroft Dynamics    
+
+[see more](http://www.businessnsoftware.com/erp-market-share/)
+
+----
+
 Evolution de l'ERP : cloudisation et digitalisation, trusted partner de la transformation digitale... et backbone IT !     
 
 [Discover your digital finance journey with Oracle](https://www.oracle.com/webfolder/assets/digibook/erp-cloudjourney/index.html?src=RoadmapTYP&elq_mid=94867&sh=&cmid=WWMK160606P00031C0004)

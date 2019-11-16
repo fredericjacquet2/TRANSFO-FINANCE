@@ -92,7 +92,11 @@ Organisation "type" d'une direction financière
 Objectifs :     
 - Présenter le champ des possibles en termes de projets de transformation - digitalisation de la fonction finance      
 - Explorer les pistes de mise en œuvre et les enjeux associés           
-- Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance     
+- Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance   
+
+----
+
+<img src="images/trop occupes.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

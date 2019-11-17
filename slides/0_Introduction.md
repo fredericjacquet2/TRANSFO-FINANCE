@@ -92,9 +92,9 @@ Organisation "type" d'une direction financière
 
 ----
 
-### 1.3. Présentation générale
+### 1.3. Objectifs et plan de cette présentation
 
-Objectifs :     
+#### Objectifs :     
 - Présenter le champ des possibles en termes de projets de transformation - digitalisation de la fonction finance      
 - Explorer les pistes de mise en œuvre et les enjeux associés           
 - Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance   
@@ -105,7 +105,7 @@ Objectifs :
 
 ----
 
-#### Plan de la présentation (si sur PC, press ESC)  
+#### Plan de la présentation        
 - Chapitre 1 = Introduction
 - Chapitre 2 = Digitalisation des process de la fonction finance 
 - Chapitre 3 = Leverager le "business partner" avec le Big Data et l’Analytics

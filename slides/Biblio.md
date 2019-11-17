@@ -2,7 +2,7 @@
 
 ----
 
-## General readings on finance transformation, English    
+#### General readings on finance transformation, English    
 
 - [Deloitte, Finance 2025](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/finance-transformation/us-ft-crunch-time-V-finance-2025.pdf)    
 - [Accenture, finance 2020](https://www.accenture.com/t20150902t015110__w__/us-en/_acnmedia/accenture/conversion-assets/dotcom/documents/global/pdf/dualpub_21/accenture-finance-2020-pov.pdf)   
@@ -11,7 +11,9 @@
 - Mc Kinsey, Reinventing the CFO for the digital age (includes podcast)     
 - Mc Kinsey, The new CFO mandate: Prioritize, transform, repeat    
 
-## General readings on finance transformation, French 
+----
+
+#### General readings on finance transformation, French 
 - [CFO 4.0 : CFO augmenté ou CFO ubérisé ?](https://www.cdoalliance.org/articles/26635-livre-blanc-cfo-4-0-cfo-augmente-ou-cfo-uberise)     
 - [IBM, L’entreprise apprenante contre attaque - Référentiel de la Maturité Digitale 2018-2019](https://www.ibm.com/account/reg/fr-fr/signup?formid=urx-37826)      
 - French [Deloitte, la transfo digitale des foncitons finances](https://fr.scribd.com/document/405480373/Transformation-digitale-de-la-fonction-finance-pdf)    
@@ -19,7 +21,7 @@
 
 ----
 
-## Videos
+#### Videos & links
 
 [Deloitte 2 scenarios](https://www.youtube.com/watch?v=hU2zyRKKZ5g)    
 
@@ -31,13 +33,9 @@
 
 [Gartenr, finance transformation](https://www.gartner.com/en/finance/insights/finance-transformation)     
 
-## Links 
-
-wip
-
 ----
 
-## Specifics readings   
+#### Specifics readings   
 
 - Oracle, Your Complete Guide to Modern Finance - A Handbook for Today’s Innovative Finance Leaders   
 BI / Big Data:     

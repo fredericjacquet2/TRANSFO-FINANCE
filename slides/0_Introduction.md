@@ -73,11 +73,19 @@ Les enjeux récents 1/2 :
 ----
 
 Les enjeux récents 2/2 :
-- S’approprier la posture du business partner (stratégie de croissance, pilotage la performance, contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts...). "Our controllers may understand the figures but not what it takes to improve them".          
+- S’approprier la posture du business partner (stratégie, fusions-acquisiitons, pilotage la performance : contrôleur de gestion versus business analyst, ou la finance centre de profit plutôt que centre de coûts). "Our controllers may understand the figures but not what it takes to improve them".          
    
 - Mener la transformation organisationnelle et technologique des processus     
 
 ***Tous ces enjeux sont fortement liés au digital !***   
+
+----
+
+En 1997, PWC présentait l'enjeu de la transformation de la fonction finance ("CFO: Architect of the Corporation's Future")     
+
+<img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
+
+Depuis, le digital s'est imposé et permet (enfin) de converger.  
 
 ----
 
@@ -92,7 +100,11 @@ Organisation "type" d'une direction financière
 Objectifs :     
 - Présenter le champ des possibles en termes de projets de transformation - digitalisation de la fonction finance      
 - Explorer les pistes de mise en œuvre et les enjeux associés           
-- Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance     
+- Mesurer l'impact sur le rôle, l'organisation, la posture de la fonction finance   
+
+----
+
+<img src="images/trop occupes.png" style="background:none; border:none; box-shadow:none;"/>
 
 ----
 

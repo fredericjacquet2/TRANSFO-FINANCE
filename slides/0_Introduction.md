@@ -81,11 +81,8 @@ Les enjeux récents 2/2 :
 
 ----
 
-"CFO: Architect of the Corporation's Future", PXC, 1997     
-
 <img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
-
-Depuis, le digital s'est imposé et permet (enfin) de converger.  
+"CFO: Architect of the Corporation's Future", PXC, 1997. Depuis, le digital s'est imposé et permet (enfin) de converger.
 
 ----
 

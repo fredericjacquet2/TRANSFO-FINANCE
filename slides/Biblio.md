@@ -11,6 +11,7 @@
 - [PWC Finance Effectiveness Benchmark Report](https://www.pwc.co.uk/finance/finance-matters/insights/finance-effectiveness-benchmark-report-2017/report-download.html)   
 - Mc Kinsey, Reinventing the CFO for the digital age (includes podcast)     
 - Mc Kinsey, The new CFO mandate: Prioritize, transform, repeat    
+- and at last, a classic : CFO, Architect of the Corporation's Future Hardcover, 1997, by PWC
 
 ----
 

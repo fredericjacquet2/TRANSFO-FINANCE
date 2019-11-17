@@ -81,6 +81,14 @@ Les enjeux récents 2/2 :
 
 ----
 
+En 1997, PWC présentait l'enjeu de la transformation de la fonction finance ("CFO: Architect of the Corporation's Future")     
+
+<img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
+
+Depuis, le digital s'est imposé et permet (enfin) de converger.  
+
+----
+
 Organisation "type" d'une direction financière     
 
 <img src="images/ORGAFIN2.png" style="background:none; border:none; box-shadow:none;"/>

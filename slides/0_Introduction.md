@@ -73,7 +73,7 @@ Les enjeux récents 1/2 :
 ----
 
 Les enjeux récents 2/2 :
-- S’approprier la posture du business partner (stratégie, fusions-acquisiitons, pilotage la performance : contrôleur de gestion versus business analyst, ou la finance centre de profit plutôt que centre de coûts). "Our controllers may understand the figures but not what it takes to improve them".          
+- S’approprier la posture du business partner : stratégie / fusions-acquisitions / pilotage la performance : contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts, "our controllers may understand the figures but not what it takes to improve them"          
    
 - Mener la transformation organisationnelle et technologique des processus     
 
@@ -82,7 +82,7 @@ Les enjeux récents 2/2 :
 ----
 
 <img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
-"CFO: Architect of the Corporation's Future", PXC, 1997. Depuis, le digital s'est imposé et permet (enfin) de converger.
+"CFO: Architect of the Corporation's Future", PWC, 1997. Depuis, le digital s'est imposé et permet (enfin) de converger.
 
 ----
 

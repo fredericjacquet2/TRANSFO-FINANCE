@@ -11,8 +11,6 @@
 - Mc Kinsey, Reinventing the CFO for the digital age (includes podcast)     
 - Mc Kinsey, The new CFO mandate: Prioritize, transform, repeat    
 
-----
-
 ## General readings on finance transformation, French 
 - [CFO 4.0 : CFO augmenté ou CFO ubérisé ?](https://www.cdoalliance.org/articles/26635-livre-blanc-cfo-4-0-cfo-augmente-ou-cfo-uberise)     
 - [IBM, L’entreprise apprenante contre attaque - Référentiel de la Maturité Digitale 2018-2019](https://www.ibm.com/account/reg/fr-fr/signup?formid=urx-37826)      
@@ -21,17 +19,21 @@
 
 ----
 
-## Links & Videos
+## Videos
 
 [Deloitte 2 scenarios](https://www.youtube.com/watch?v=hU2zyRKKZ5g)    
 
 [Mazars' online TV "the next CFO"](https://www.thenextcfo.tv/):     
 - [How-will-digitalisation-impact-the-CFO-s-role](https://www.thenextcfo.tv/The-Professor/How-will-digitalisation-impact-the-CFO-s-role.html)
 - [A-new-challenge-awaits-CFOs-evolve-or-become-irrelevant](https://www.thenextcfo.tv/The-Professor/A-new-challenge-awaits-CFOs-evolve-or-become-irrelevant.html)    
-- [he-finance-department-is-dead](https://www.thenextcfo.tv/finquake/the-finance-department-is-dead.html)
-- [career path l'Oreal CFO](https://www.thenextcfo.tv/career-paths/Philippe-Fau.html)
+- [The-finance-department-is-dead](https://www.thenextcfo.tv/finquake/the-finance-department-is-dead.html)
+- [Career path l'Oreal CFO](https://www.thenextcfo.tv/career-paths/Philippe-Fau.html)     
 
+[Gartenr, finance transformation](https://www.gartner.com/en/finance/insights/finance-transformation)     
 
+## Links 
+
+wip
 
 ----
 

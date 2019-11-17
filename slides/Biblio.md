@@ -4,7 +4,8 @@
 
 #### General readings on finance transformation, English    
 
-- [Deloitte, Finance 2025](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/finance-transformation/us-ft-crunch-time-V-finance-2025.pdf)    
+- [Deloitte, Finance 2025](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/finance-transformation/us-ft-crunch-time-V-finance-2025.pdf)   
+- [Deloitte, "Crunch time" series for CFOs](https://www2.deloitte.com/us/en/pages/finance-transformation/articles/crunch-time-series-for-cfos.html), a series of docs on digital technology and transformation in Finance
 - [Accenture, finance 2020](https://www.accenture.com/t20150902t015110__w__/us-en/_acnmedia/accenture/conversion-assets/dotcom/documents/global/pdf/dualpub_21/accenture-finance-2020-pov.pdf)   
 - [Mazars, CFO transformation](https://fre.mazars.com/content/download/144055/21626576/version//file/Mazars%20-%20POV%20Financial%20Transformation_30012012.pdf)   
 - [PWC Finance Effectiveness Benchmark Report](https://www.pwc.co.uk/finance/finance-matters/insights/finance-effectiveness-benchmark-report-2017/report-download.html)   

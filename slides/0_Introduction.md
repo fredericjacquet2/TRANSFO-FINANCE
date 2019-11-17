@@ -81,7 +81,7 @@ Les enjeux récents 2/2 :
 
 ----
 
-En 1997, PWC présentait l'enjeu de la transformation de la fonction finance ("CFO: Architect of the Corporation's Future")     
+"CFO: Architect of the Corporation's Future", PXC, 1997     
 
 <img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
 

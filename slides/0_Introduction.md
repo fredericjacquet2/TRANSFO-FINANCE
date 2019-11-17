@@ -73,7 +73,7 @@ Les enjeux récents 1/2 :
 ----
 
 Les enjeux récents 2/2 :
-- S’approprier la posture du business partner (stratégie de croissance, pilotage la performance, contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts...). "Our controllers may understand the figures but not what it takes to improve them".          
+- S’approprier la posture du business partner (stratégie, fusions-acquisiitons, pilotage la performance : contrôleur de gestion versus business analyst, ou la finance centre de profit plutôt que centre de coûts). "Our controllers may understand the figures but not what it takes to improve them".          
    
 - Mener la transformation organisationnelle et technologique des processus     
 

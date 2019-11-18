@@ -68,7 +68,7 @@ Les missions régaliennes :
 Les enjeux récents 1/2 :
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …) : expertise, sensibilisation-formation, outils et conformité des SI      
 - Optimiser la trésorerie (cash is king) : centralisation tréso (cash pooling), chantiers d'optimisation du BFR           
-- Externaliser avec la mise en oeuvre de CSP Centres de Services Partagés : mutualisation - efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
+- Externalisation par mise en oeuvre de CSP Centres de Services Partagés : mutualisation - efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
 
 ----
 
@@ -82,7 +82,7 @@ Les enjeux récents 2/2 :
 ----
 
 <img src="images/pwc TF.png" style="background:none; border:none; box-shadow:none;"/>      
-"CFO: Architect of the Corporation's Future", PWC, 1997. Depuis, le digital s'est imposé et permet (enfin) de converger.
+"CFO: Architect of the Corporation's Future", PWC, 1997. Le digital permet (enfin) de converger.
 
 ----
 

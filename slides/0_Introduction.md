@@ -66,15 +66,15 @@ Les missions régaliennes :
 ----
 
 Les enjeux récents 1/2 :
+- S’approprier la posture du business partner : stratégie / fusions-acquisitions / pilotage la performance : contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts, "our controllers may understand the figures but not what it takes to improve them"          
 - Répondre aux nouvelles exigences réglementaires (RGPD, Sapin2 …) : expertise, sensibilisation-formation, outils et conformité des SI      
-- Optimiser la trésorerie (cash is king) : centralisation tréso (cash pooling), chantiers d'optimisation du BFR           
-- Externalisation par mise en oeuvre de CSP Centres de Services Partagés : mutualisation - efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)      
+
 
 ----
 
 Les enjeux récents 2/2 :
-- S’approprier la posture du business partner : stratégie / fusions-acquisitions / pilotage la performance : contrôleur de gestion versus business analyst, la finance centre de profit plutôt que centre de coûts, "our controllers may understand the figures but not what it takes to improve them"          
-   
+- Optimiser la trésorerie (cash is king) : centralisation tréso (cash pooling), chantiers d'optimisation du BFR           
+- Externalisation par mise en oeuvre de CSP Centres de Services Partagés : mutualisation - efficience par l'externalisation (objectifs et enjeux, choix de périmètre et d'éloignement, process, ROI, chantier Change)         
 - Mener la transformation organisationnelle et technologique des processus     
 
 ***Tous ces enjeux sont fortement liés au digital !***   
